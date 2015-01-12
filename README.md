@@ -40,3 +40,6 @@ MailChimp (http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
 ###JetBrains Stuff###
 https://www.jetbrains.com/devnet/sponsorship/open-source/ - has **strict rules** like you need to maintain your project for 3 months, have Non-Apache License and so on
+
+###SSL Certificates###
+GoDaddy (https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
