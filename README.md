@@ -14,6 +14,10 @@ BitBucket (https://bitbucket.org/) - free for open source and private repositori
 
 GitHub (https://github.com/) - free for open source repositories, paid for private repositories
 
+###Hosting###
+
+NodeJitsu (http://opensource.nodejitsu.com/) - free NodeJS hosting for open source projects
+
 ###Continuous Integration###
 
 AppVeyor (http://www.appveyor.com/) - Continuous Integration for .NET
