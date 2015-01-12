@@ -4,6 +4,8 @@ This is a list of great services made free for open source projects formerly sta
 
 This repository will be updated when new comments will appear
 
+##Pull Requests welcome!
+
 Have fun!
 
 ###Version Control###
@@ -35,3 +37,6 @@ YourKit (http://www.yourkit.com/) - Java Profiler
 ###E-mail Sending###
 
 MailChimp (http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
+
+###JetBrains Stuff###
+https://www.jetbrains.com/devnet/sponsorship/open-source/
