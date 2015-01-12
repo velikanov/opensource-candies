@@ -20,6 +20,8 @@ AppVeyor (http://www.appveyor.com/) - Continuous Integration for .NET
 
 Coveralls (https://coveralls.io/) - Code Coverage History
 
+Drone (https://drone.io/)
+
 Scrutinizer (https://scrutinizer-ci.com/)
 
 Semaphore - (https://semaphoreapp.com/)
