@@ -16,7 +16,7 @@ GitHub (https://github.com/) - free for open source repositories, paid for priva
 
 ###Hosting###
 
-NodeJitsu (http://opensource.nodejitsu.com/) - free NodeJS hosting for open source projects
+Nodejitsu (http://opensource.nodejitsu.com/) - free Node.js hosting for open source projects
 
 ###Continuous Integration###
 
