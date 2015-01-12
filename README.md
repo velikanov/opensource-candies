@@ -39,4 +39,4 @@ YourKit (http://www.yourkit.com/) - Java Profiler
 MailChimp (http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
 ###JetBrains Stuff###
-https://www.jetbrains.com/devnet/sponsorship/open-source/
+https://www.jetbrains.com/devnet/sponsorship/open-source/ - has *strict rules* like you need to maintain your project for 3 months, have Non-Apache License and so on
