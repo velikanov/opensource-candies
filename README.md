@@ -64,6 +64,8 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 ### Project Management
 [YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - request needed
 
+[Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
+
 ### SSL Certificates
 [GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
