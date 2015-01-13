@@ -24,7 +24,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://drone.io/img/favicon.ico" alt="Drone" height="16" /> Drone](https://drone.io/) - CI for GitHub and Bitbucket - free for open source
 
-[<img src="https://my.jrebel.com/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - CI for Java
+[<img src="https://my.jrebel.com/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - Instant Deployment for Java
 
 [<img src="https://saucelabs.com/favicon.ico" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
 
