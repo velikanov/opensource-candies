@@ -24,6 +24,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://drone.io/img/favicon.ico" alt="Drone" height="16" /> Drone](https://drone.io/) - CI for GitHub and Bitbucket - free for open source
 
+[<img src="https://saucelabs.com/favicon.ico" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
+
 [<img src="https://scrutinizer-ci.com/favicon.ico" alt="Scrutinizer" height="16" /> Scrutinizer](https://scrutinizer-ci.com/) - CI for GitHub and BitBucket - free for open source
 
 [<img src="https://d1dkupr86d302v.cloudfront.net/assets/favicons/favicon-ba583273b55072a62243e0fc6458af29.ico" alt="Semaphore" height="16" /> Semaphore](https://semaphoreapp.com/) - CI for GitHub and BitBucket - free for open source
