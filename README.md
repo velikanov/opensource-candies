@@ -1,12 +1,9 @@
 # Open Source Candies
+### The Free-For-Open-Source Services List
 
-This is a list of great services made free for open source projects formerly started at YCombinator: https://news.ycombinator.com/item?id=8874227
-
-This repository will be updated when new comments will appear
+Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 ##Pull Requests welcome!
-
-Have fun!
 
 ###Version Control###
 
