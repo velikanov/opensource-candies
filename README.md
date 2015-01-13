@@ -71,6 +71,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### E-mail Sending
 [<img src="http://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
+[<img src="https://helpmonks.com/images/favicons/favicon.ico" alt="Helpmonks" height="16" /> Helpmonks](http://helpmonks.com/) - Team email management. Simplified. - free for open source projects and non-profit organizations
+
 ### IDE
 [<img src="https://www.jetbrains.com/objc/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/objc/buy/choose_edition.jsp?license=OPEN_SOURCE) - Objective C IDE - free for open source, Outercurve developers - request needed
 
@@ -96,6 +98,9 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### SSL Certificates
 [<img src="https://img1.wsimg.com/assets/godaddy.ico" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
+
+### Digital Asset Management
+[<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](http://razuna.org/) - Worlds most popular open source Digital Asset Management
 
 ## To Do
 
