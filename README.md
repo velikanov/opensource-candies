@@ -3,7 +3,15 @@
 
 Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
 
+--
+
 ## Pull Requests welcome!
+
+```
+[<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description%[ - %rules%]
+```
+
+---
 
 ### Version Control
 [<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
