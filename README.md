@@ -62,9 +62,11 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 [ReSharper](https://www.jetbrains.com/resharper/buy/choose_edition.jsp?license=OPEN_SOURCE) - free for non-Apache developers, Apache developers, Outercurve developers - request needed
 
 ### Project Management
-[YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - request needed
-
 [Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
+
+[Trello](https://trello.com/) - simple bugtracker - free for all
+
+[YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - request needed
 
 ### SSL Certificates
 [GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
