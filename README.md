@@ -40,8 +40,10 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
-### Translating
+### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
+
+[<img src="https://www.transifex.com/favicon.ico" alt="Transifex" height="16" /> Transifex](https://www.transifex.com/) - Localization Platform for Web
 
 ### Profiling
 [<img src="https://d2vqbs7xgyce6n.cloudfront.net/assets/v80b84b2fe7/bundles/blackfire/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
