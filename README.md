@@ -3,20 +3,17 @@
 
 Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
-##Pull Requests welcome!
+## Pull Requests welcome!
 
-###Version Control###
-
+### Version Control
 [BitBucket](https://bitbucket.org/) - free for open source and private repositories
 
 [GitHub](https://github.com/) - free for open source repositories, paid for private repositories
 
-###Hosting###
-
+### Hosting
 [Nodejitsu](http://opensource.nodejitsu.com/) - free Node.js hosting for open source projects
 
-###Continuous Integration && Code Coverage###
-
+### Continuous Integration and Code Coverage
 [AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET
 
 [Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile (currently iOS, Android coming soon as of January 2015)
@@ -35,24 +32,20 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 [Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
-###Translating###
-
+### Translating
 [Crowdin](https://crowdin.com/) - free for open source - request needed
 
-###Profiling###
-
+### Profiling
 [dotMemory](https://www.jetbrains.com/dotmemory/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET Memory Profiler - request needed
 
 [dotTrace](https://www.jetbrains.com/profiler/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET profiler - request needed
 
 [YourKit](http://www.yourkit.com/) - Java Profiler
 
-###E-mail Sending###
-
+### E-mail Sending
 [MailChimp](http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
-###IDE###
-
+### IDE
 [AppCode](https://www.jetbrains.com/objc/buy/choose_edition.jsp?license=OPEN_SOURCE) - Objective C IDE - free for open source, Outercurve developers - request needed
 
 [IntelliJ Idea](https://www.jetbrains.com/idea/buy/choose_edition.jsp?license=OPEN_SOURCE) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - request needed
@@ -65,19 +58,15 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 [WebStorm](https://www.jetbrains.com/webstorm/buy/choose_edition.jsp?license=OPEN_SOURCE) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - request needed
 
-###IDE Plugins###
-
+### IDE Plugins
 [ReSharper](https://www.jetbrains.com/resharper/buy/choose_edition.jsp?license=OPEN_SOURCE) - free for non-Apache developers, Apache developers, Outercurve developers - request needed
 
-###Project Management###
-
+### Project Management
 [YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - request needed
 
-###SSL Certificates###
-
+### SSL Certificates
 [GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
-###Atlassian stuff###
-####needs systematization####
-
+### Atlassian stuff
+#### needs systematization
 https://www.atlassian.com/opensource/overview
