@@ -34,7 +34,7 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 ### Code Review
 
-[CodeClimate](https://codeclimate.com/) - Code Review - free for open source
+[CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
 ### Translating
 [Crowdin](https://crowdin.com/) - free for open source - request needed
