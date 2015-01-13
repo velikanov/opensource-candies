@@ -32,6 +32,8 @@ Semaphore - (https://semaphoreapp.com/)
 
 Travis CI (https://travis-ci.org/)
 
+Bitrise (http://www.bitrise.io/) - Continuous Integration for mobile (currently iOS, Android coming soon as of January 2015)
+
 ###Translating###
 
 Crowdin (https://crowdin.com/) - need to request subscription
