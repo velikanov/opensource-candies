@@ -32,6 +32,10 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://travis-ci.org/favicon.ico" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
+### Monitoring
+
+[<img src="https://bugsnag.com/favicon.ico" height="16" alt="Bugsnag" /> Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Multilanguage Crossplatform Error Monitoring - free for open source - email request needed
+
 ### Code Review
 
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
