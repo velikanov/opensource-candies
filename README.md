@@ -89,6 +89,14 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### SSL Certificates
 [<img src="https://img1.wsimg.com/assets/godaddy.ico" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
+## To Do
+
 ### Atlassian stuff
-#### needs systematization
+##### Needs systematization
 https://www.atlassian.com/opensource/overview
+
+### Similar Links
+##### May contain outdated information
+
+https://mremoteng.atlassian.net/wiki/display/MR/List+of+Free+Tools+for+Open+Source+Projects
+http://ossperks.com/
