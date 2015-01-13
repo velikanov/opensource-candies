@@ -44,9 +44,13 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
 ### Profiling
+[<img src="https://d2vqbs7xgyce6n.cloudfront.net/assets/v80b84b2fe7/bundles/blackfire/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
+
 [<img src="https://www.jetbrains.com/dotmemory/favicon.ico" alt="dotMemory" height="16" /> dotMemory](https://www.jetbrains.com/dotmemory/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET Memory Profiler - request needed
 
 [<img src="https://www.jetbrains.com/profiler/favicon.ico" alt="dotTrace" height="16" /> dotTrace](https://www.jetbrains.com/profiler/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET profiler - request needed
+
+[<img src="https://insight.sensiolabs.com/favicon.ico" alt="SensioLabsInsight" height="16" /> SensioLabsInsight](https://insight.sensiolabs.com/pricing) - Code Quality Assurance Tool by creators of Symfony - free for open source
 
 [<img src="http://www.yourkit.com/favicon.ico" alt="YourKit" height="16" /> YourKit](http://www.yourkit.com/) - Java Profiler
 
