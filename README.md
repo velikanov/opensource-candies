@@ -78,3 +78,8 @@ YouTrack (https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free
 
 ###SSL Certificates###
 GoDaddy (https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
+
+###Atlassian stuff###
+####needs systematization####
+
+https://www.atlassian.com/opensource/overview
