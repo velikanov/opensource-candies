@@ -30,11 +30,11 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 [Team City](https://www.jetbrains.com/teamcity/buy/opensource.html) - free for open source - **strict rules** - request needed
 
-[Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
+<img src="https://travis-ci.org/favicon.ico" height="16" alt="Travis CI" /> [Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
 ### Code Review
 
-[CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
+<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> [CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
 ### Translating
 [Crowdin](https://crowdin.com/) - free for open source - request needed
