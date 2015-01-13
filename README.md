@@ -32,6 +32,10 @@ Formerly started at [YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 [Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
+### Code Review
+
+[CodeClimate](https://codeclimate.com/) - Code Review - free for open source
+
 ### Translating
 [Crowdin](https://crowdin.com/) - free for open source - request needed
 
