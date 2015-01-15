@@ -90,6 +90,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://www.jetbrains.com/resharper/favicon.ico" alt="ReSharper" height="16" /> ReSharper](https://www.jetbrains.com/resharper/buy/choose_edition.jsp?license=OPEN_SOURCE) - free for non-Apache developers, Apache developers, Outercurve developers - request needed
 
 ### Project Management
+[<img src="https://tree.taiga.io/images/favicon.png" alt="Taiga.io" height="16" /> Taiga.io](https://taiga.io) - Agile project management platform - free for public projects
+
 [<img src="https://www.teamwork.com/favicon.ico" alt="Teamwork" height="16" /> Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
