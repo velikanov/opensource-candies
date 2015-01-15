@@ -18,6 +18,10 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, paid for private repositories
 
+[<img src="https://gitlab.com/favicon.ico" alt="GitLab" height="16" /> GitLab](https://gitlab.com/) - free for open source and private repositories
+
+[<img src="https://gitorious.org/favicon.ico" alt="Gitorious" height="16" /> Gitorious](https://gitorious.org) - free for open source repositories
+
 ### Hosting
 [<img src="http://opensource.nodejitsu.com/favicon.ico" alt="Nodejitsu" height="16" /> Nodejitsu](http://opensource.nodejitsu.com/) - free Node.js hosting for open source projects
 
