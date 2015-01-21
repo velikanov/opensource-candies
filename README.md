@@ -1,5 +1,5 @@
-# Open Source Candies
-### The Free-For-Open-Source Services List
+# <img src="http://img1.wikia.nocookie.net/__cb20111229090428/clubpenguin/images/thumb/4/47/Candy_Swirl_Pin.png/500px-Candy_Swirl_Pin.png" height="30" /> Open Source Candies
+### The Free-for-Open-Source Services List
 
 Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
 
