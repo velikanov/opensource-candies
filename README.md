@@ -10,7 +10,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ```
 [<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
 ```
-
+###### In alphabetical order, please
 ---
 
 ### Version Control
