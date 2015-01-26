@@ -72,6 +72,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
+[<img src="https://www.codacy.com/favicon.ico" alt="Codacy" height="16" /> Codacy](https://www.codacy.com/) - Automated Code Review for Scala, JavaScript, PHP, Python and CSS - free for open source
+
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
