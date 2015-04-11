@@ -38,7 +38,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Continuous Integration and Code Coverage
 [<img src="http://www.appveyor.com/site/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET
 
-[<img src="http://www.bitrise.io/assets/favicon-c5c85d8119fa606916bf92d0e5a458a4.png" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile (currently iOS, Android coming soon as of January 2015)
+[<img src="http://www.bitrise.io/favicon.ico" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile (currently iOS, Android coming soon as of January 2015)
 
 [<img src="https://coveralls.io/favicon.ico" alt="Coveralls" height="16" /> Coveralls](https://coveralls.io/) - Code Coverage History
 
@@ -60,9 +60,9 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.jetbrains.com/teamcity/favicon.ico" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/teamcity/buy/opensource.html) - free for open source - **strict rules** - request needed
 
-[<img src="https://travis-ci.org/favicon.ico" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
+[<img src="https://travis-ci-org.global.ssl.fastly.net/images/favicon-04004642a94f6c2b0d4a567fb5dbe145.png" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
-[<img src="http://zutubi.com/site_media/images/favicon.png" alt="Zutubi Pulse" height="16" /> Zutubi Pulse](http://zutubi.com/sales/opensource/) - 1 server, 5 agents, unlimited users - request needed
+[<img src="http://zutubi.com/static/images/favicon.png" alt="Zutubi Pulse" height="16" /> Zutubi Pulse](http://zutubi.com/sales/opensource/) - 1 server, 5 agents, unlimited users - request needed
 
 ### Monitoring
 
