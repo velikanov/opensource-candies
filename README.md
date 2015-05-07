@@ -72,6 +72,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
+[<img src="https://www.quantifiedcode.com/static/assets/gfx/qc-favicon.png" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
+
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
