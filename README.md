@@ -34,7 +34,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="http://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](http://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
 ### Continuous Integration and Code Coverage
-[<img src="http://www.appveyor.com/site/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET
+[<img src="http://www.appveyor.com/site/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
 [<img src="http://www.bitrise.io/favicon.ico" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile (currently iOS, Android coming soon as of January 2015)
 
