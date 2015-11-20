@@ -20,8 +20,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://gitlab.com/favicon.ico" alt="GitLab" height="16" /> GitLab](https://gitlab.com/) - free for open source and private repositories
 
-[<img src="https://gitorious.org/favicon.ico" alt="Gitorious" height="16" /> Gitorious](https://gitorious.org) - free for open source repositories
-
 ### Project Hosting
 [<img src="https://www.codeplex.com/favicon.ico" alt="CodePlex" height="16" /> CodePlex](https://www.codeplex.com/) - free .NET Open Source Project Hosting
 
