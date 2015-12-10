@@ -54,7 +54,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://scrutinizer-ci.com/favicon.ico" alt="Scrutinizer" height="16" /> Scrutinizer](https://scrutinizer-ci.com/) - CI for GitHub and BitBucket - free for open source
 
-[<img src="https://d1dkupr86d302v.cloudfront.net/assets/favicons/favicon-ba583273b55072a62243e0fc6458af29.ico" alt="Semaphore" height="16" /> Semaphore](https://semaphoreapp.com/) - CI for GitHub and BitBucket - free for open source
+[<img src="https://d1dkupr86d302v.cloudfront.net/assets/favicons/favicon-b8c8761eebf314a8721ac6eec000ad13b4d49f3a3606cbc53a0ce7aebf1a24b9.ico" alt="Semaphore" height="16" /> Semaphore](https://semaphoreapp.com/) - CI for GitHub and BitBucket - free for open source
 
 [<img src="https://www.jetbrains.com/teamcity/favicon.ico" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/teamcity/buy/opensource.html) - free for open source - **strict rules** - request needed
 
