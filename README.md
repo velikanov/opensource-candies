@@ -58,7 +58,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.jetbrains.com/teamcity/favicon.ico" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/teamcity/buy/opensource.html) - free for open source - **strict rules** - request needed
 
-[<img src="https://travis-ci-org.global.ssl.fastly.net/images/favicon-04004642a94f6c2b0d4a567fb5dbe145.png" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
+[<img src="https://cdn.travis-ci.org/images/favicon-662edf026745110e8203d8cf38d1d325.png" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
 [<img src="http://zutubi.com/static/images/favicon.png" alt="Zutubi Pulse" height="16" /> Zutubi Pulse](http://zutubi.com/sales/opensource/) - 1 server, 5 agents, unlimited users - request needed
 
