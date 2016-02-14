@@ -42,8 +42,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="http://dploy.io/images/favicon.ico?170920131204" alt="dploy.io" height="16" /> dploy.io](http://dploy.io/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
 
-[<img src="https://www.jetbrains.com/dotcover/favicon.ico" alt="dotCover" height="16" /> dotCover](https://www.jetbrains.com/dotcover/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET Code Coverage and Unit Testing - free for open source, Outercurve developers - request needed
-
 [<img src="https://drone.io/img/favicon.ico" alt="Drone" height="16" /> Drone](https://drone.io/) - CI for GitHub and Bitbucket - free for open source
 
 [<img src="https://gitlab.com/favicon.ico" alt="Gitlab-CI" height="16" /> Gitlab-CI](https://about.gitlab.com/gitlab-ci/) - on-premises CI for GitLab - free and open source
@@ -82,10 +80,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Profiling
 [<img src="https://d2vqbs7xgyce6n.cloudfront.net/assets/v80b84b2fe7/bundles/blackfire/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
 
-[<img src="https://www.jetbrains.com/dotmemory/favicon.ico" alt="dotMemory" height="16" /> dotMemory](https://www.jetbrains.com/dotmemory/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET Memory Profiler - request needed
-
-[<img src="https://www.jetbrains.com/profiler/favicon.ico" alt="dotTrace" height="16" /> dotTrace](https://www.jetbrains.com/profiler/buy/choose_edition.jsp?license=OPEN_SOURCE) - .NET profiler - request needed
-
 [<img src="https://insight.sensiolabs.com/favicon.ico" alt="SensioLabsInsight" height="16" /> SensioLabsInsight](https://insight.sensiolabs.com/pricing) - Code Quality Assurance Tool by creators of Symfony - free for open source
 
 [<img src="http://www.yourkit.com/favicon.ico" alt="YourKit" height="16" /> YourKit](http://www.yourkit.com/) - Java Profiler
@@ -107,9 +101,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://www.jetbrains.com/ruby/favicon.ico" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/ruby/buy/choose_edition.jsp?license=OPEN_SOURCE) - Ruby IDE - free for open source, Outercurve developers - request needed
 
 [<img src="https://www.jetbrains.com/webstorm/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/webstorm/buy/choose_edition.jsp?license=OPEN_SOURCE) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - request needed
-
-### IDE Plugins
-[<img src="https://www.jetbrains.com/resharper/favicon.ico" alt="ReSharper" height="16" /> ReSharper](https://www.jetbrains.com/resharper/buy/choose_edition.jsp?license=OPEN_SOURCE) - free for non-Apache developers, Apache developers, Outercurve developers - request needed
 
 ### Project Management
 
