@@ -54,7 +54,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://d1dkupr86d302v.cloudfront.net/assets/favicons/favicon-b8c8761eebf314a8721ac6eec000ad13b4d49f3a3606cbc53a0ce7aebf1a24b9.ico" alt="Semaphore" height="16" /> Semaphore](https://semaphoreapp.com/) - CI for GitHub and BitBucket - free for open source
 
-[<img src="https://www.jetbrains.com/teamcity/favicon.ico" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/teamcity/buy/opensource.html) - free for open source - **strict rules** - request needed
+[<img src="https://www.jetbrains.com/teamcity/favicon.ico" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/buy/opensource/?product=teamcity) - free for open source - **strict rules** - request needed
 
 [<img src="https://cdn.travis-ci.org/images/favicon-662edf026745110e8203d8cf38d1d325.png" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
@@ -90,17 +90,17 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="http://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
 ### IDE
-[<img src="https://www.jetbrains.com/objc/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/objc/buy/choose_edition.jsp?license=OPEN_SOURCE) - Objective C IDE - free for open source, Outercurve developers - request needed
+[<img src="https://www.jetbrains.com/objc/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/idea/favicon.ico" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/idea/buy/choose_edition.jsp?license=OPEN_SOURCE) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - request needed
+[<img src="https://www.jetbrains.com/idea/favicon.ico" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/phpstorm/favicon.ico" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/phpstorm/buy/choose_edition.jsp?license=OPEN_SOURCE) - PHP IDE - free for open source, Outercurve developers - request needed
+[<img src="https://www.jetbrains.com/phpstorm/favicon.ico" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/pycharm/favicon.ico" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/pycharm/buy/choose_edition.jsp?license=OPEN_SOURCE) - Python IDE - free for open source, Outercurve developers - request needed
+[<img src="https://www.jetbrains.com/pycharm/favicon.ico" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/ruby/favicon.ico" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/ruby/buy/choose_edition.jsp?license=OPEN_SOURCE) - Ruby IDE - free for open source, Outercurve developers - request needed
+[<img src="https://www.jetbrains.com/ruby/favicon.ico" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/webstorm/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/webstorm/buy/choose_edition.jsp?license=OPEN_SOURCE) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - request needed
+[<img src="https://www.jetbrains.com/webstorm/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 ### Project Management
 
@@ -112,7 +112,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
 
-[<img src="https://www.jetbrains.com/youtrack/favicon.ico" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - request needed
+[<img src="https://www.jetbrains.com/youtrack/favicon.ico" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
 
 ### SSL Certificates
 [<img src="https://img1.wsimg.com/assets/godaddy.ico" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
