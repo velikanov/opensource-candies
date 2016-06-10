@@ -129,5 +129,5 @@ https://www.atlassian.com/opensource/overview
 ### Similar Links
 ##### May contain outdated information
 
-https://mremoteng.atlassian.net/wiki/display/MR/List+of+Free+Tools+for+Open+Source+Projects
-http://ossperks.com/
+* https://mremoteng.atlassian.net/wiki/display/MR/List+of+Free+Tools+for+Open+Source+Projects
+* http://ossperks.com/
