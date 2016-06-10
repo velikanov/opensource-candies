@@ -38,7 +38,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://coveralls.io/favicon.ico" alt="Coveralls" height="16" /> Coveralls](https://coveralls.io/) - Code Coverage History
 
-[<img src="http://dploy.io/images/favicon.ico?170920131204" alt="dploy.io" height="16" /> dploy.io](http://dploy.io/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
+[<img src="https://plus.google.com/_/favicon?domain=https://deploybot.com/" alt="DeployBot" height="16" /> DeployBot](https://deploybot.com/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
 
 [<img src="https://drone.io/img/favicon.ico" alt="Drone" height="16" /> Drone](https://drone.io/) - CI for GitHub and Bitbucket - free for open source
 
