@@ -23,8 +23,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Project Hosting
 [<img src="https://www.codeplex.com/favicon.ico" alt="CodePlex" height="16" /> CodePlex](https://www.codeplex.com/) - free .NET Open Source Project Hosting
 
-[<img src="http://opensource.nodejitsu.com/favicon.ico" alt="Nodejitsu" height="16" /> Nodejitsu](http://opensource.nodejitsu.com/) - free Node.js hosting for open source projects
-
 [<img src="https://www.nuget.org/favicon.ico" alt="NuGet" height="16" /> NuGet](https://www.nuget.org/) - free .NET Project Hosting
 
 [<img src="https://www.pythonanywhere.com/favicon.ico" alt="Python Anywhere" height="16" /> Python Anywhere](https://www.pythonanywhere.com/) - hosting for Python projects - **has limits**
