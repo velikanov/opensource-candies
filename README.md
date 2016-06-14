@@ -23,8 +23,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Project Hosting
 [<img src="https://www.codeplex.com/favicon.ico" alt="CodePlex" height="16" /> CodePlex](https://www.codeplex.com/) - free .NET Open Source Project Hosting
 
-[<img src="http://opensource.nodejitsu.com/favicon.ico" alt="Nodejitsu" height="16" /> Nodejitsu](http://opensource.nodejitsu.com/) - free Node.js hosting for open source projects
-
 [<img src="https://www.nuget.org/favicon.ico" alt="NuGet" height="16" /> NuGet](https://www.nuget.org/) - free .NET Project Hosting
 
 [<img src="https://www.pythonanywhere.com/favicon.ico" alt="Python Anywhere" height="16" /> Python Anywhere](https://www.pythonanywhere.com/) - hosting for Python projects - **has limits**
@@ -34,19 +32,27 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Continuous Integration and Code Coverage
 [<img src="http://www.appveyor.com/site/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
-[<img src="http://www.bitrise.io/favicon.ico" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile (currently iOS, Android coming soon as of January 2015)
+[<img src="http://www.bitrise.io/favicon.ico" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile
+
+[<img src="https://d3r49iyjzglexf.cloudfront.net/favicon-066b37ff00f0f968b903c13ae88b5573b62665aea8fbe91bb61c55dfa9446523.ico" alt="CircleCI" height="16" /> CircleCI](https://circleci.com/) - Continuous Integration and Delivery - 3 extra containers
 
 [<img src="https://codecov.io/favicon.ico" alt="Codecov" height="16" /> Codecov](https://codecov.io/) - Continuous Code Coverage
 
+[<img src="https://codeship.com/favicon.ico" alt="Codeship" height="16" /> Codeship](https://codeship.com/) - Continuous Integration and Delivery for several languages, also supports Docker
+
 [<img src="https://coveralls.io/favicon.ico" alt="Coveralls" height="16" /> Coveralls](https://coveralls.io/) - Code Coverage History
 
-[<img src="http://dploy.io/images/favicon.ico?170920131204" alt="dploy.io" height="16" /> dploy.io](http://dploy.io/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
+[<img src="https://www.deployhq.com/images/favicon.png" alt="Deploy" height="16" /> Deploy](https://www.deployhq.com/) - Continuous Deployment - email request needed
+
+[<img src="https://plus.google.com/_/favicon?domain=https://deploybot.com/" alt="DeployBot" height="16" /> DeployBot](https://deploybot.com/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
 
 [<img src="https://drone.io/img/favicon.ico" alt="Drone" height="16" /> Drone](https://drone.io/) - CI for GitHub and Bitbucket - free for open source
 
 [<img src="https://gitlab.com/favicon.ico" alt="Gitlab-CI" height="16" /> Gitlab-CI](https://about.gitlab.com/gitlab-ci/) - on-premises CI for GitLab - free and open source
 
 [<img src="https://my.jrebel.com/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - Instant Deployment for Java
+
+[<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Continuous Code Coverage for Python
 
 [<img src="https://saucelabs.com/favicon.ico" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
 
@@ -60,9 +66,17 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="http://zutubi.com/static/images/favicon.png" alt="Zutubi Pulse" height="16" /> Zutubi Pulse](http://zutubi.com/sales/opensource/) - 1 server, 5 agents, unlimited users - request needed
 
+### Browser Testing
+
+[<img src="https://www.browserstack.com/favicon.ico" alt="Browser Stack" height="16" /> Browser Stack](https://www.browserstack.com/) - Live, Web-Based Browser Testing - request needed
+
+[<img src="https://testingbot.com/assets/favicon-0ee396e8ce058b933824e4f3a852f0d7cc78b9ab0b23b98a5d065661ab04b512.ico" alt="TestingBot" height="16" /> TestingBot](https://testingbot.com/) - Browser Testing - request needed
+
 ### Monitoring
 
 [<img src="https://bugsnag.com/favicon.ico" height="16" alt="Bugsnag" /> Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Multilanguage Crossplatform Error Monitoring - free for open source - email request needed
+
+[<img src="https://hund.io/favicon.ico" height="16" alt="Hund" /> Hund](https://hund.io/) - Hosted Status Pages - free for open source - email request needed
 
 [<img src="https://media.getsentry.com/_static/404d90137d1522edb18744103a37f271/getsentry/images/favicon.ico"  height="16" alt="Sentry" /> Sentry](https://getsentry.com/for/open-source/) - [100% Open Source](https://github.com/getsentry/sentry) Crash Reporting - forever free for open source - request needed
 
@@ -77,7 +91,11 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
+[<img src="https://poeditor.com/favicon.ico" alt="POEditor" height="16" /> POEditor](https://poeditor.com/) - free for open source - request needed
+
 [<img src="https://www.transifex.com/favicon.ico" alt="Transifex" height="16" /> Transifex](https://www.transifex.com/) - Localization Platform for Web
+
+[<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://www.transifex.com/) - Localization for Rails apps - email request needed
 
 ### Profiling
 [<img src="https://d2vqbs7xgyce6n.cloudfront.net/assets/v80b84b2fe7/bundles/blackfire/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
@@ -106,7 +124,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### Project Management
 
-[<img src="https://d3ttd6qrrcxpxm.cloudfront.net/P8nj5v/2.2.7/img/logomark.svg" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
+[<img src="https://huboard.com/favicon.ico" alt="HuBoard" height="16" /> HuBoard](https://huboard.com/) - Project management for GitHub issues - free for public projects
 
 [<img src="https://tree.taiga.io/images/favicon.png" alt="Taiga.io" height="16" /> Taiga.io](https://taiga.io) - Agile project management platform - free for public projects
 
@@ -116,11 +134,23 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.jetbrains.com/youtrack/favicon.ico" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
 
+[<img src="https://d3ttd6qrrcxpxm.cloudfront.net/P8nj5v/2.2.7/img/logomark.svg" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
+
 ### SSL Certificates
 [<img src="https://img1.wsimg.com/assets/godaddy.ico" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
 ### Digital Asset Management
 [<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](http://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
+
+### Misc. Application Utilities
+
+[<img src="https://static.apiary.io/assets/aa8fc5808796304b0bd19c126f30f1d8.ico" alt="Apiary" height="16" /> Apiary](https://apiary.io/) - Design, prototype, document and test APIs - email request needed
+
+[<img src="https://cdn.auth0.com/styleguide/4.6.1/lib/logos/img/favicon.png" alt="Auth0" height="16" /> Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication - request needed
+
+[<img src="https://gelato.io/assets/interface/favicon-e546debbfa20c77bcbab96c7b16b0638.png" alt="Gelato.io" height="16" /> Gelato.io](https://gelato.io/) - Developer Portals - email request needed
+
+[<img src="https://mailtrap.io/assets/favicon-c4a74624584606aa50e2df4d63a19373.ico" alt="Mailtrap" height="16" /> Mailtrap](https://mailtrap.io/) - Fake SMTP servers - email request needed
 
 ## To Do
 
@@ -131,5 +161,5 @@ https://www.atlassian.com/opensource/overview
 ### Similar Links
 ##### May contain outdated information
 
-https://mremoteng.atlassian.net/wiki/display/MR/List+of+Free+Tools+for+Open+Source+Projects
-http://ossperks.com/
+* https://mremoteng.atlassian.net/wiki/display/MR/List+of+Free+Tools+for+Open+Source+Projects
+* http://ossperks.com/
