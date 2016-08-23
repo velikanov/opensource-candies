@@ -152,6 +152,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://mailtrap.io/assets/favicon-c4a74624584606aa50e2df4d63a19373.ico" alt="Mailtrap" height="16" /> Mailtrap](https://mailtrap.io/) - Fake SMTP servers - email request needed
 
+[<img src="https://www.supportpal.com/assets/img/favicon/favicon_space_small.png" alt="SupportPal" height="16" /> SupportPal](https://supportpal.com) - Help Desk Software - free for open source projects and charities. Email Request Needed.
+
 ## To Do
 
 ### Atlassian stuff
