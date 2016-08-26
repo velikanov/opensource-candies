@@ -74,11 +74,11 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### Monitoring
 
-[<img src="https://bugsnag.com/favicon.ico" height="16" alt="Bugsnag" /> Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Multilanguage Crossplatform Error Monitoring - free for open source - email request needed
+[<img src="https://plus.google.com/_/favicon?domain=https://bugsnag.com/" height="16" alt="Bugsnag" /> Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Multilanguage Crossplatform Error Monitoring - free for open source - email request needed
 
 [<img src="https://hund.io/favicon.ico" height="16" alt="Hund" /> Hund](https://hund.io/) - Hosted Status Pages - free for open source - email request needed
 
-[<img src="https://media.getsentry.com/_static/404d90137d1522edb18744103a37f271/getsentry/images/favicon.ico"  height="16" alt="Sentry" /> Sentry](https://getsentry.com/for/open-source/) - [100% Open Source](https://github.com/getsentry/sentry) Crash Reporting - forever free for open source - request needed
+[<img src="https://plus.google.com/_/favicon?domain=https://getsentry.com/"  height="16" alt="Sentry" /> Sentry](https://getsentry.com/for/open-source/) - [100% Open Source](https://github.com/getsentry/sentry) Crash Reporting - forever free for open source - request needed
 
 ### Code Review
 
