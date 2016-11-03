@@ -29,6 +29,9 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="http://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](http://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
+### Public Cloud
+[<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://www.openshift.com/grants/) - free for open source - request needed
+
 ### Continuous Integration and Code Coverage
 [<img src="http://www.appveyor.com/site/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
