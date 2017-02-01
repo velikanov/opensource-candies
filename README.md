@@ -137,6 +137,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.jetbrains.com/youtrack/favicon.ico" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
 
+[<img src="https://waffle.io/favicon.ico" alt="waffle.io" height="16" /> Waffle.io](https://waffle.io/) - project management powered by your GitHub issues & pull requests
+
 [<img src="https://d3ttd6qrrcxpxm.cloudfront.net/P8nj5v/2.2.7/img/logomark.svg" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
 
 ### SSL Certificates
