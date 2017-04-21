@@ -142,6 +142,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### SSL Certificates
 [<img src="https://plus.google.com/_/favicon?domain=https://godaddy.com/" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
+[<img src="https://letsencrypt.org/favicon.ico" alt="Let’s Encrypt" height="16" /> Let’s Encrypt](https://letsencrypt.org) - free, automated, and open certificate authority
+
 ### Digital Asset Management
 [<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](http://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
 
