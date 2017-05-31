@@ -77,6 +77,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://plus.google.com/_/favicon?domain=https://bugsnag.com/" height="16" alt="Bugsnag" /> Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Multilanguage Crossplatform Error Monitoring - free for open source - email request needed
 
+[<img src="https://datadog-live.imgix.net/img/favicons/favicon.ico" height="16" alt="Datadog" /> Datadog](https://www.datadoghq.com/partner/open-source/) - Real-time performance monitoring for open source projects - free for open source - request needed
+
 [<img src="https://hund.io/favicon.ico" height="16" alt="Hund" /> Hund](https://hund.io/) - Hosted Status Pages - free for open source - email request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://getsentry.com/"  height="16" alt="Sentry" /> Sentry](https://getsentry.com/for/open-source/) - [100% Open Source](https://github.com/getsentry/sentry) Crash Reporting - forever free for open source - request needed
