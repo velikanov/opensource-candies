@@ -53,8 +53,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://my.jrebel.com/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - Instant Deployment for Java
 
-[<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Continuous Code Coverage for Python
-
 [<img src="https://saucelabs.com/favicon.ico" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
 
 [<img src="https://scrutinizer-ci.com/favicon.ico" alt="Scrutinizer" height="16" /> Scrutinizer](https://scrutinizer-ci.com/) - CI for GitHub and BitBucket - free for open source
@@ -90,6 +88,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
 [<img src="https://www.quantifiedcode.com/static/assets/gfx/qc-favicon.png" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
+
+[<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Code quality inspector for Python
 
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
