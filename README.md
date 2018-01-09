@@ -151,6 +151,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### Misc. Application Utilities
 
+[<img src="https://www.algolia.com/static_assets/images/favicon/favicon-16x16-084e22e8.png" alt="Algolia" height="16" /> Algolia](https://www.algolia.com/) - Hosted Search engine as a service - free for community and open source use, email request needed
+
 [<img src="https://apiary.io/favicon.ico" alt="Apiary" height="16" /> Apiary](https://apiary.io/) - Design, prototype, document and test APIs - email request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://auth0.com" alt="Auth0" height="16" /> Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication - request needed
@@ -167,6 +169,4 @@ https://www.atlassian.com/opensource/overview
 
 ### Similar Links
 ##### May contain outdated information
-
-* https://mremoteng.atlassian.net/wiki/display/MR/List+of+Free+Tools+for+Open+Source+Projects
 * http://ossperks.com/
