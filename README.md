@@ -165,7 +165,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### Atlassian stuff
 ##### Needs systematization
-https://www.atlassian.com/opensource/overview
+https://www.atlassian.com/software/views/open-source-license-request
 
 ### Similar Links
 ##### May contain outdated information
