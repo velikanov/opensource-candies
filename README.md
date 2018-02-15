@@ -142,6 +142,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://plus.google.com/_/favicon?domain=https://zenhub.io" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
 
 ### SSL Certificates
+[<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - free Shared SSL cert for everyone, unmetered DDoS mitigation and Web Application Firewall
+
 [<img src="https://plus.google.com/_/favicon?domain=https://godaddy.com/" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
 [<img src="https://letsencrypt.org/favicon.ico" alt="Let’s Encrypt" height="16" /> Let’s Encrypt](https://letsencrypt.org) - free, automated, and open certificate authority
@@ -156,6 +158,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://apiary.io/favicon.ico" alt="Apiary" height="16" /> Apiary](https://apiary.io/) - Design, prototype, document and test APIs - email request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://auth0.com" alt="Auth0" height="16" /> Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication - request needed
+
+[<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - [Pro Plan upgrade for open source projects](https://blog.cloudflare.com/cloudflare-open-source-your-upgrade-is-on-the-house/), includes CDN, SSL cert, Web Application Firewalls, image and mobile optimizations, and more.
 
 [<img src="https://plus.google.com/_/favicon?domain=https://gelato.io" alt="Gelato.io" height="16" /> Gelato.io](https://gelato.io/) - Developer Portals - email request needed
 
