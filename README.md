@@ -91,6 +91,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Code quality inspector for Python
 
+[<img src="https://res.cloudinary.com/snyk/image/upload/v1468845142/favicon/favicon.ico" alt="Snyk" height="16" /> Snyk](https://snyk.io/) - Continuously find & fix vulnerabilities in your dependencies, supports multiple languages - free for open source and low volume private testing
+
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
