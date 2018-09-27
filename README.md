@@ -159,9 +159,10 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Design & Icons
 [<img src="https://about.canva.com/wp-content/themes/canva/img/icons/favicon.ico" alt="Canva" height="16" /> Canva](https://about.canva.com/pricing/) - free for all plan
 
+[<img src="https://openclipart.org/favicon.ico" alt="Openclipart" height="16" /> Openclipart](https://openclipart.org/) - Free clipart for all
+
 [<img src="https://unsplash.com/favicon.ico" alt="Unsplash" height="16" /> Unsplash](https://unsplash.com/) - Photos for free for all purpose - no link back required (although appreciated)
 
-[<img src="https://openclipart.org/favicon.ico" alt="Openclipart" height="16" /> Openclipart](https://openclipart.org/) - Free clipart for all
 
 ### Misc. Application Utilities
 
