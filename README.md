@@ -28,7 +28,10 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="http://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](http://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
 ### Public Cloud
-[<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://www.openshift.com/grants/) - free for open source - request needed
+[<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://www.openshift.com/grants/) - free for open source - request needed  
+
+### Documentation
+[<img src="https://www.gitbook.com/public/images/b1c4c86ca817a71628d2debe73be9a64.ico" alt="GitBook" height="16" /> GitBook](https://www.gitbook.com/pricing) - free for open source - request needed
 
 ### Continuous Integration and Code Coverage
 [<img src="http://www.appveyor.com/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
@@ -152,6 +155,13 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### Digital Asset Management
 [<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](http://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
+
+### Design & Icons
+[<img src="https://about.canva.com/wp-content/themes/canva/img/icons/favicon.ico" alt="Canva" height="16" /> Canva](https://about.canva.com/pricing/) - free for all plan
+
+[<img src="https://unsplash.com/favicon.ico" alt="Unsplash" height="16" /> Unsplash](https://unsplash.com/) - Photos for free for all purpose - no link back required (although appreciated)
+
+[<img src="https://openclipart.org/favicon.ico" alt="Openclipart" height="16" /> Openclipart](https://openclipart.org/) - Free clipart for all
 
 ### Misc. Application Utilities
 
