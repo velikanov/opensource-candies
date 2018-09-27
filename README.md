@@ -36,6 +36,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Continuous Integration and Code Coverage
 [<img src="http://www.appveyor.com/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
+[<img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48a57936-939a-460e-8a29-c290cd686697.png" alt="Azure Pipelines" height="16" /> Azure Pipelines](https://github.com/marketplace/azure-pipelines/plan/MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xMTkz#pricing-and-setup) - Azure Pipelines offers cloud-hosted pipelines for Linux, macOS, and Windows with unlimited minutes for [open source projects](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/).
+
 [<img src="https://www.bitrise.io/assets/icons/favicon-32x32.png" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile
 
 [<img src="https://plus.google.com/_/favicon?domain=https://circleci.com" alt="CircleCI" height="16" /> CircleCI](https://circleci.com/) - Continuous Integration and Delivery - 3 extra containers
@@ -127,6 +129,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://www.jetbrains.com/favicon.ico" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
+
+[<img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/02/BrandVisualStudioIDE2017RTW_64x.png" alt="Visual Studio Community" height="16" /> Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - free, fully-featured IDE for students, open-source and individual developers
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
