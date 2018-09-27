@@ -33,25 +33,25 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Continuous Integration and Code Coverage
 [<img src="http://www.appveyor.com/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
-[<img src="http://www.bitrise.io/favicon.ico" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile
+[<img src="https://www.bitrise.io/assets/icons/favicon-32x32.png" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile
 
 [<img src="https://plus.google.com/_/favicon?domain=https://circleci.com" alt="CircleCI" height="16" /> CircleCI](https://circleci.com/) - Continuous Integration and Delivery - 3 extra containers
 
-[<img src="https://codecov.io/favicon.ico" alt="Codecov" height="16" /> Codecov](https://codecov.io/) - Continuous Code Coverage
+[<img src="https://storage.googleapis.com/codecov-cdn/4.4.0-94f19e4b/media/images/favicon.png" alt="Codecov" height="16" /> Codecov](https://codecov.io/) - Continuous Code Coverage
 
 [<img src="https://codeship.com/favicon.ico" alt="Codeship" height="16" /> Codeship](https://codeship.com/) - Continuous Integration and Delivery for several languages, also supports Docker
 
 [<img src="https://coveralls.io/favicon.ico" alt="Coveralls" height="16" /> Coveralls](https://coveralls.io/) - Code Coverage History
 
-[<img src="https://www.deployhq.com/images/favicon.png" alt="Deploy" height="16" /> Deploy](https://www.deployhq.com/) - Continuous Deployment - email request needed
+[<img src="https://www.deployhq.com/assets/favicon-8649b743158f8fe24e8ebf7660fab47cf5f7ea610bd5f8f679477eb77f88e3e4.png" alt="Deploy" height="16" /> Deploy](https://www.deployhq.com/) - Continuous Deployment - email request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://deploybot.com/" alt="DeployBot" height="16" /> DeployBot](https://deploybot.com/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
 
 [<img src="https://gitlab.com/favicon.ico" alt="Gitlab-CI" height="16" /> Gitlab-CI](https://about.gitlab.com/gitlab-ci/) - on-premises CI for GitLab - free and open source
 
-[<img src="https://my.jrebel.com/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - Instant Deployment for Java
+[<img src="https://static.zeroturnaround.com/theme55/images/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - Instant Deployment for Java
 
-[<img src="https://saucelabs.com/favicon.ico" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
+[<img src="https://az184419.vo.msecnd.net/sauce-labs/favicon/apple-icon-57x57.png" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
 
 [<img src="https://scrutinizer-ci.com/favicon.ico" alt="Scrutinizer" height="16" /> Scrutinizer](https://scrutinizer-ci.com/) - CI for GitHub and BitBucket - free for open source
 
@@ -87,7 +87,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
-[<img src="https://www.quantifiedcode.com/static/assets/gfx/qc-favicon.png" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
+[<img src="https://avatars0.githubusercontent.com/u/6774260?s=200&v=4" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
 
 [<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Code quality inspector for Python
 
@@ -133,7 +133,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://tree.taiga.io/images/favicon.png" alt="Taiga.io" height="16" /> Taiga.io](https://taiga.io) - Agile project management platform - free for public projects
 
-[<img src="https://www.teamwork.com/images/favicon/favicon.ico" alt="Teamwork" height="16" /> Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
+[<img src="https://website-assets.teamwork.com/assets/images/favicons/32.png" alt="Teamwork" height="16" /> Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
 
