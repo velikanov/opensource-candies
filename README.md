@@ -27,6 +27,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="http://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](http://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
+[<img src="https://digitalocean.com/favicon.ico" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
+
 ### Public Cloud
 [<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://www.openshift.com/grants/) - free for open source - request needed  
 
