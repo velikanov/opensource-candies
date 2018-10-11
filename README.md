@@ -109,6 +109,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://translation.io/) - Localization for Rails apps - email request needed
 
+[<img src="https://translations.launchpad.net/@@/launchpad-logo" alt="Launchpad" height="16" /> Launchpad](https://translations.launchpad.net/) - Localization Platform for open source projects
+
 ### Profiling
 [<img src="https://blackfire.io/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
 
