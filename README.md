@@ -152,6 +152,10 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://plus.google.com/_/favicon?domain=https://zenhub.io" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
 
+### Chat
+
+[<img src="https://raw.githubusercontent.com/zulip/zulip/master/static/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulipchat.com/new/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
+
 ### SSL Certificates
 [<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - free Shared SSL cert for everyone, unmetered DDoS mitigation and Web Application Firewall
 
