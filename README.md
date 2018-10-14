@@ -84,7 +84,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://healthchecks.io/favicon.ico" height="16" alt="healthchecks.io" /> Healthchecks.io](https://healthchecks.io/) - Cron monitoring - free for open source - email request needed
 
-[<img src="https://hund.io/favicon.ico" height="16" alt="Hund" /> Hund](https://hund.io/) - Hosted Status Pages - free for open source - email request needed
+[<img src="https://hund.io/favicon.ico" height="16" alt="Hund" /> Hund](https://hund.io/help/billing-and-accounts/oss-plan) - Hosted Status Pages - free for open source - email request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://getsentry.com/"  height="16" alt="Sentry" /> Sentry](https://getsentry.com/for/open-source/) - [100% Open Source](https://github.com/getsentry/sentry) Crash Reporting - forever free for open source - request needed
 
