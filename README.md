@@ -103,6 +103,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
+[<img src="https://translations.launchpad.net/@@/launchpad-logo" alt="Launchpad" height="16" /> Launchpad](https://translations.launchpad.net/) - Localization Platform for open source projects
+
 [<img src="https://poeditor.com/public/images/favicons/favicon-32x32.png" alt="POEditor" height="16" /> POEditor](https://poeditor.com/) - free for open source - request needed
 
 [<img src="https://www.transifex.com/favicon.ico" alt="Transifex" height="16" /> Transifex](https://www.transifex.com/) - Localization Platform for Web
