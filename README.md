@@ -56,8 +56,6 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://gitlab.com/favicon.ico" alt="Gitlab-CI" height="16" /> Gitlab-CI](https://about.gitlab.com/gitlab-ci/) - on-premises CI for GitLab - free and open source
 
-[<img src="https://static.zeroturnaround.com/theme55/images/favicon.ico" alt="JRebel" height="16" /> JRebel](https://my.jrebel.com/) - Instant Deployment for Java
-
 [<img src="https://az184419.vo.msecnd.net/sauce-labs/favicon/apple-icon-57x57.png" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
 
 [<img src="https://scrutinizer-ci.com/favicon.ico" alt="Scrutinizer" height="16" /> Scrutinizer](https://scrutinizer-ci.com/) - CI for GitHub and BitBucket - free for open source
