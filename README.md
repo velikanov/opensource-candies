@@ -34,7 +34,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.herokucdn.com/favicon.ico" alt="Heroku" height="16" /> Heroku](https://www.heroku.com/pricing) - free tier for experimenting, sleeps after 30 minutes of inactivity
 
-[<img src="https://assets.zeit.co/image/upload/front/assets/design/zeit-black-triangle.svg" alt="ZEIT Now" height="16" /> ZEIT Now](https://zeit.co/pricing) - free OSS tier for up to 3 instances in v1, rebranded as "Free" tier in v2
+[<img src="https://assets.zeit.co/image/upload/front/assets/design/now-black.svg" alt="ZEIT Now" height="16" /> ZEIT Now](https://zeit.co/pricing) - free OSS tier for up to 3 instances in v1, rebranded as "Free" tier in v2
 
 ### Documentation
 [<img src="https://www.gitbook.com/public/images/b1c4c86ca817a71628d2debe73be9a64.ico" alt="GitBook" height="16" /> GitBook](https://www.gitbook.com/pricing) - free for open source - request needed
