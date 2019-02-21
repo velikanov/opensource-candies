@@ -102,6 +102,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://res.cloudinary.com/snyk/image/upload/v1468845142/favicon/favicon.ico" alt="Snyk" height="16" /> Snyk](https://snyk.io/) - Continuously find & fix vulnerabilities in your dependencies, supports multiple languages - free for open source and low volume private testing
 
+[<img src="https://sonarcloud.io/favicon.ico" alt="SonarCloud" height="16" /> SonarCloud](https://sonarcloud.io) - Code coverage, code smell, and bug/vulnerability detection and tracking
+
 ### Localization
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
