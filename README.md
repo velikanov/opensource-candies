@@ -158,8 +158,6 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
 
-[<img src="https://waffle.io/favicon.ico" alt="waffle.io" height="16" /> Waffle.io](https://waffle.io/) - project management powered by your GitHub issues & pull requests
-
 [<img src="https://plus.google.com/_/favicon?domain=https://zenhub.io" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
 
 ### Chat
