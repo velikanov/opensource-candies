@@ -197,6 +197,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://mailtrap.io/favicon.ico" alt="Mailtrap" height="16" /> Mailtrap](https://mailtrap.io/) - Fake SMTP servers - email request needed
 
+[<img src="https://sdkman.io/assets//img/favicon.ico" alt="sdkman.io" height="16" /> SDKMAN!](https://sdkman.io) - Software Development Kit Manager for JVM developers
+
 ## To Do
 
 ### Atlassian stuff
