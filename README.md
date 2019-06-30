@@ -1,4 +1,5 @@
 # <img src="http://img1.wikia.nocookie.net/__cb20111229090428/clubpenguin/images/thumb/4/47/Candy_Swirl_Pin.png/500px-Candy_Swirl_Pin.png" height="30" /> Open Source Candies
+
 ### The Free-for-Open-Source Services List
 
 Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
@@ -10,10 +11,13 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ```
 [<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
 ```
+
 ###### In alphabetical order, please
+
 ---
 
 ### Version Control
+
 [<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
 
 [<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, free for private repositories
@@ -21,6 +25,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://gitlab.com/favicon.ico" alt="GitLab" height="16" /> GitLab](https://gitlab.com/) - free for open source and private repositories
 
 ### Project Hosting
+
 [<img src="https://www.nuget.org/favicon.ico" alt="NuGet" height="16" /> NuGet](https://www.nuget.org/) - free .NET Project Hosting
 
 [<img src="https://www.pythonanywhere.com/favicon.ico" alt="Python Anywhere" height="16" /> Python Anywhere](https://www.pythonanywhere.com/) - hosting for Python projects - **has limits**
@@ -30,16 +35,19 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://digitalocean.com/favicon.ico" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
 
 ### Public Cloud
-[<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://www.openshift.com/grants/) - free for open source - request needed  
+
+[<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://www.openshift.com/grants/) - free for open source - request needed
 
 [<img src="https://www.herokucdn.com/favicon.ico" alt="Heroku" height="16" /> Heroku](https://www.heroku.com/pricing) - free tier for experimenting, sleeps after 30 minutes of inactivity
 
 [<img src="https://assets.zeit.co/image/upload/front/assets/design/now-black.svg" alt="ZEIT Now" height="16" /> ZEIT Now](https://zeit.co/pricing) - free OSS tier for up to 3 instances in v1, rebranded as "Free" tier in v2
 
 ### Documentation
-[<img src="https://www.gitbook.com/public/images/b1c4c86ca817a71628d2debe73be9a64.ico" alt="GitBook" height="16" /> GitBook](https://www.gitbook.com/pricing) - free for open source - request needed
+
+[<img src="https://uploads-ssl.webflow.com/5c349f90a3cd4515d0564552/5ca4a75b42e38558959fdbb8_favicon.ico" alt="GitBook" height="16" /> GitBook](https://www.gitbook.com/pricing) - free for open source - request needed
 
 ### Continuous Integration and Code Coverage
+
 [<img src="http://www.appveyor.com/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
 [<img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48a57936-939a-460e-8a29-c290cd686697.png" alt="Azure Pipelines" height="16" /> Azure Pipelines](https://github.com/marketplace/azure-pipelines/plan/MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xMTkz#pricing-and-setup) - Azure Pipelines offers cloud-hosted pipelines for Linux, macOS, and Windows with unlimited minutes for [open source projects](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/).
@@ -105,6 +113,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://sonarcloud.io/favicon.ico" alt="SonarCloud" height="16" /> SonarCloud](https://sonarcloud.io) - Code coverage, code smell, and bug/vulnerability detection and tracking
 
 ### Localization
+
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
 
 [<img src="https://translations.launchpad.net/@@/launchpad-logo" alt="Launchpad" height="16" /> Launchpad](https://translations.launchpad.net/) - Localization Platform for open source projects
@@ -116,6 +125,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://translation.io/) - Localization for Rails apps - email request needed
 
 ### Profiling
+
 [<img src="https://blackfire.io/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
 
 [<img src="https://insight.sensiolabs.com/favicon.ico" alt="SensioLabsInsight" height="16" /> SensioLabsInsight](https://insight.sensiolabs.com/pricing) - Code Quality Assurance Tool by creators of Symfony - free for open source
@@ -123,11 +133,13 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 [<img src="http://www.yourkit.com/favicon.ico" alt="YourKit" height="16" /> YourKit](http://www.yourkit.com/) - Java Profiler
 
 ### E-mail Sending
+
 [<img src="https://helpmonks.com/images/favicons/favicon.ico" alt="Helpmonks" height="16" /> Helpmonks](http://helpmonks.com/) - Team email management. Simplified. - free for open source projects and non-profit organizations
 
 [<img src="http://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
 ### IDE
+
 [<img src="https://www.jetbrains.com/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
@@ -140,8 +152,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/02/BrandVisualStudioIDE2017RTW_64x.png" alt="Visual Studio Community" height="16" /> Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - free, fully-featured IDE for students, open-source and individual developers
 
-
-[<img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" alt="VSCodium" height="16" /> VS Codium](https://github.com/VSCodium/vscodium/) - 
+[<img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" alt="VSCodium" height="16" /> VS Codium](https://github.com/VSCodium/vscodium/) -
 binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
@@ -165,6 +176,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 [<img src="https://raw.githubusercontent.com/zulip/zulip/master/static/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulipchat.com/new/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
 
 ### SSL Certificates
+
 [<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - free Shared SSL cert for everyone, unmetered DDoS mitigation and Web Application Firewall
 
 [<img src="https://plus.google.com/_/favicon?domain=https://godaddy.com/" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
@@ -172,9 +184,11 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 [<img src="https://letsencrypt.org/favicon.ico" alt="Let’s Encrypt" height="16" /> Let’s Encrypt](https://letsencrypt.org) - free, automated, and open certificate authority
 
 ### Digital Asset Management
+
 [<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](http://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
 
 ### Design & Icons
+
 [<img src="https://about.canva.com/wp-content/themes/canva/img/icons/favicon.ico" alt="Canva" height="16" /> Canva](https://about.canva.com/pricing/) - free for all plan
 
 [<img src="https://mixkit.co/icons/icon-48x48.png" alt="Mixkit" height="16" /> Mixkit](https://mixkit.co/) - free video footage & animation - attribution not required
@@ -185,7 +199,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Misc. Application Utilities
 
-[<img src="https://www.algolia.com/static_assets/images/favicon/favicon-16x16-084e22e8.png" alt="Algolia" height="16" /> Algolia](https://www.algolia.com/) - Hosted Search engine as a service - free for community and open source use, email request needed
+[<img src="https://www.algolia.com/icons/icon-48x48.png?v=6aa74bf932b8dc1849d3368dfa888e0d" alt="Algolia" height="16" /> Algolia](https://www.algolia.com/) - Hosted Search engine as a service - free for community and open source use, email request needed
 
 [<img src="https://apiary.io/favicon.ico" alt="Apiary" height="16" /> Apiary](https://apiary.io/) - Design, prototype, document and test APIs - email request needed
 
@@ -202,9 +216,13 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 ## To Do
 
 ### Atlassian stuff
+
 ##### Needs systematization
+
 https://www.atlassian.com/software/views/open-source-license-request
 
 ### Similar Links
+
 ##### May contain outdated information
-* http://ossperks.com/
+
+- http://ossperks.com/
