@@ -142,7 +142,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### IDE
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/AppCode_Logo.png" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
 
