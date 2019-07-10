@@ -138,6 +138,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="http://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
+[<img src="https://sendgrid.com/favicon.ico" alt="SendGrid" height="16" /> SendGrid](https://sendgrid.com/pricing/) - free 100 emails / day
+
 ### IDE
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
