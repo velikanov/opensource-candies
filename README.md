@@ -74,7 +74,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://plus.google.com/_/favicon?domain=https://semaphoreapp.com" alt="Semaphore" height="16" /> Semaphore](https://semaphoreapp.com/) - CI for GitHub and BitBucket - free for open source
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/buy/opensource/?product=teamcity) - free for open source - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Teamcity_Logo.png" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/buy/opensource/?product=teamcity) - free for open source - **strict rules** - request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://travis-ci.org/" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
@@ -142,7 +142,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### IDE
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/AppCode_Logo.png" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
 
