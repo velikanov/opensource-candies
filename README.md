@@ -1,4 +1,4 @@
-# <img src="http://img1.wikia.nocookie.net/__cb20111229090428/clubpenguin/images/thumb/4/47/Candy_Swirl_Pin.png/500px-Candy_Swirl_Pin.png" height="30" /> Open Source Candies
+# <img src="https://img1.wikia.nocookie.net/__cb20111229090428/clubpenguin/images/thumb/4/47/Candy_Swirl_Pin.png/500px-Candy_Swirl_Pin.png" height="30" /> Open Source Candies
 
 ### The Free-for-Open-Source Services List
 
@@ -30,7 +30,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.pythonanywhere.com/favicon.ico" alt="Python Anywhere" height="16" /> Python Anywhere](https://www.pythonanywhere.com/) - hosting for Python projects - **has limits**
 
-[<img src="http://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](http://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
+[<img src="https://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](https://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
 [<img src="https://digitalocean.com/favicon.ico" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
 
@@ -48,11 +48,11 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 ### Continuous Integration and Code Coverage
 
-[<img src="http://www.appveyor.com/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](http://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
+[<img src="https://www.appveyor.com/favicon.ico" alt="AppVeyor" height="16" /> AppVeyor](https://www.appveyor.com/) - Continuous Integration for .NET and many open source languages on Windows
 
 [<img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48a57936-939a-460e-8a29-c290cd686697.png" alt="Azure Pipelines" height="16" /> Azure Pipelines](https://github.com/marketplace/azure-pipelines/plan/MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xMTkz#pricing-and-setup) - Azure Pipelines offers cloud-hosted pipelines for Linux, macOS, and Windows with unlimited minutes for [open source projects](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/).
 
-[<img src="https://www.bitrise.io/assets/icons/favicon-32x32.png" alt="Bitrise" height="16" /> Bitrise](http://www.bitrise.io/) - Continuous Integration for mobile
+[<img src="https://www.bitrise.io/assets/icons/favicon-32x32.png" alt="Bitrise" height="16" /> Bitrise](https://www.bitrise.io/) - Continuous Integration for mobile
 
 [<img src="https://plus.google.com/_/favicon?domain=https://circleci.com" alt="CircleCI" height="16" /> CircleCI](https://circleci.com/) - Continuous Integration and Delivery - 3 extra containers
 
@@ -130,13 +130,13 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://insight.sensiolabs.com/favicon.ico" alt="SensioLabsInsight" height="16" /> SensioLabsInsight](https://insight.sensiolabs.com/pricing) - Code Quality Assurance Tool by creators of Symfony - free for open source
 
-[<img src="http://www.yourkit.com/favicon.ico" alt="YourKit" height="16" /> YourKit](http://www.yourkit.com/) - Java Profiler
+[<img src="https://www.yourkit.com/favicon.ico" alt="YourKit" height="16" /> YourKit](https://www.yourkit.com/) - Java Profiler
 
 ### E-mail Sending
 
-[<img src="https://helpmonks.com/images/favicons/favicon.ico" alt="Helpmonks" height="16" /> Helpmonks](http://helpmonks.com/) - Team email management. Simplified. - free for open source projects and non-profit organizations
+[<img src="https://helpmonks.com/images/favicons/favicon.ico" alt="Helpmonks" height="16" /> Helpmonks](https://helpmonks.com/) - Team email management. Simplified. - free for open source projects and non-profit organizations
 
-[<img src="http://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](http://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
+[<img src="https://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](https://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
 ### IDE
 
@@ -185,7 +185,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Digital Asset Management
 
-[<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](http://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
+[<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](https://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
 
 ### Design & Icons
 
