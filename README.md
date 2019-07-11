@@ -150,14 +150,14 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/RubyMine.png" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/02/BrandVisualStudioIDE2017RTW_64x.png" alt="Visual Studio Community" height="16" /> Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - free, fully-featured IDE for students, open-source and individual developers
 
 [<img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" alt="VSCodium" height="16" /> VS Codium](https://github.com/VSCodium/vscodium/) -
 binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/WebStorm.png" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 ### Project Management
 
