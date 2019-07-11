@@ -146,7 +146,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Phpstorm.png" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://www.jetbrains.com/favicon.ico" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
