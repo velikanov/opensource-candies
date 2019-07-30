@@ -146,20 +146,20 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/AppCode_Logo.png" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Phpstorm.png" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/RubyMine.png" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 [<img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/02/BrandVisualStudioIDE2017RTW_64x.png" alt="Visual Studio Community" height="16" /> Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - free, fully-featured IDE for students, open-source and individual developers
 
 [<img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" alt="VSCodium" height="16" /> VS Codium](https://github.com/VSCodium/vscodium/) -
 binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/WebStorm.png" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 ### Project Management
 
@@ -171,7 +171,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
 
-[<img src="https://www.jetbrains.com/favicon.ico" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/YouTrack.svg" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://zenhub.io" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
 
