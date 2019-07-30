@@ -224,9 +224,3 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 ##### Needs systematization
 
 https://www.atlassian.com/software/views/open-source-license-request
-
-### Similar Links
-
-##### May contain outdated information
-
-- http://ossperks.com/
