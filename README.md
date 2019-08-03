@@ -175,6 +175,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://plus.google.com/_/favicon?domain=https://zenhub.io" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
 
+[<img src="https://www.discourse.org/a/img/favicon.png" alt="discourse.org" height="16" /> Discourse.org](https://blog.discourse.org/2016/03/free-discourse-forum-hosting-for-community-friendly-github-projects/) - Civilized discussion forum for your team/customers/fans/patrons - request needed
+
 ### Chat
 
 [<img src="https://raw.githubusercontent.com/zulip/zulip/master/static/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulipchat.com/new/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
