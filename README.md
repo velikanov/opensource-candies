@@ -82,6 +82,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="http://zutubi.com/static/images/favicon.png" alt="Zutubi Pulse" height="16" /> Zutubi Pulse](http://zutubi.com/sales/opensource/) - 1 server, 5 agents, unlimited users - request needed
 
+[<img src="https://knapsackpro.com/favicon.ico" alt="knapsackpro.com" height="16" /> Knapsackpro](knapsackpro.com) - Speed up your tests run 1 hour test suite in 2 minutes with optimal parallelisation on your CI - request needed
+
 ### Browser Testing
 
 [<img src="https://www.browserstack.com/favicon.ico" alt="Browser Stack" height="16" /> Browser Stack](https://www.browserstack.com/) - Live, Web-Based Browser Testing - request needed
