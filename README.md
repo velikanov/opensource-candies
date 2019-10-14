@@ -48,7 +48,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://uploads-ssl.webflow.com/5c349f90a3cd4515d0564552/5ca4a75b42e38558959fdbb8_favicon.ico" alt="GitBook" height="16" /> GitBook](https://www.gitbook.com/pricing) - free for open source - request needed
 
-[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Confluence" height="16" /> Atlassian Confluence](https://www.atlassian.com/software/views/open-source-license-request) - free for open source - request needed
+[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Confluence" height="16" /> Atlassian Confluence](https://www.atlassian.com/software/confluence/) - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
 ### Continuous Integration and Code Coverage
 
@@ -56,7 +56,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48a57936-939a-460e-8a29-c290cd686697.png" alt="Azure Pipelines" height="16" /> Azure Pipelines](https://github.com/marketplace/azure-pipelines/plan/MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xMTkz#pricing-and-setup) - Azure Pipelines offers cloud-hosted pipelines for Linux, macOS, and Windows with unlimited minutes for [open source projects](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/).
 
-[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Bamboo" height="16" /> Atlassian Bamboo](https://www.atlassian.com/software/views/open-source-license-request) - Continuous integration, deployment, and delivery on your own server - free for open source - request needed
+[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Bamboo" height="16" /> Atlassian Bamboo](https://www.atlassian.com/software/bamboo/) - Continuous integration, deployment, and delivery on your own server - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
 [<img src="https://www.bitrise.io/assets/icons/favicon-32x32.png" alt="Bitrise" height="16" /> Bitrise](https://www.bitrise.io/) - Continuous Integration for mobile
 
@@ -169,7 +169,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Project Management
 
-[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/views/open-source-license-request) - Project management and issue tracking - free for open source - request needed
+[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - Project management and issue tracking - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
 [<img src="https://huboard.com/favicon.ico" alt="HuBoard" height="16" /> HuBoard](https://huboard.com/) - Project management for GitHub issues - free for public projects
 
