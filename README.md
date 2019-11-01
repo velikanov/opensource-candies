@@ -72,6 +72,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://plus.google.com/_/favicon?domain=https://deploybot.com/" alt="DeployBot" height="16" /> DeployBot](https://deploybot.com/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
 
+[<img src="https://deployplace.com/images/favicon/favicon.ico" alt="DeployPlace" height="16" /> DeployPlace](https://deployplace.com/) - Deploy your applications from git or CI in minutes. Complex deployments become simple - free for a lifetime 3 projects 1 user 1 deployment template for reuse unlimited deployment
+
 [<img src="https://gitlab.com/favicon.ico" alt="Gitlab-CI" height="16" /> Gitlab-CI](https://about.gitlab.com/gitlab-ci/) - on-premises CI for GitLab - free and open source
 
 [<img src="https://az184419.vo.msecnd.net/sauce-labs/favicon/apple-icon-57x57.png" alt="Sauce Labs" height="16" /> Sauce Labs](https://saucelabs.com/) - CI for GitHub, Google Code, SourceForge with Selenium - free for open source
