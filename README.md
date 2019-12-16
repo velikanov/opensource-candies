@@ -205,7 +205,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://about.canva.com/wp-content/themes/canva/img/icons/favicon.ico" alt="Canva" height="16" /> Canva](https://about.canva.com/pricing/) - free for all plan
 
-[<img src="https://mixkit.co/icons/icon-48x48.png" alt="Mixkit" height="16" /> Mixkit](https://mixkit.co/) - free video footage & animation - attribution not required
+[<img src="https://mixkit.co/static/favicons/favicon-32x32.png" alt="Mixkit" height="16" /> Mixkit](https://mixkit.co/) - free video footage & animation - attribution not required
 
 [<img src="https://openclipart.org/favicon.ico" alt="Openclipart" height="16" /> Openclipart](https://openclipart.org/) - Free clipart for all
 
