@@ -9,7 +9,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 ### Pull Requests welcome!
 
 ```
-[<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
+[<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%]
 ```
 
 ###### In alphabetical order, please
