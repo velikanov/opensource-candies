@@ -48,6 +48,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://uploads-ssl.webflow.com/5c349f90a3cd4515d0564552/5ca4a75b42e38558959fdbb8_favicon.ico" alt="GitBook" height="16" /> GitBook](https://www.gitbook.com/pricing) - free for open source - request needed
 
+[<img src="https://readthedocs.org/favicon.ico" alt="Read the Docs" height="16" /> Read the Docs](https://readthedocs.org/) - automating building, versioning, and hosting of your docs - free for open source
+
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Confluence" height="16" /> Atlassian Confluence](https://www.atlassian.com/software/confluence/) - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
 ### Continuous Integration and Code Coverage
@@ -114,6 +116,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://codeclimate.com/favicon.ico" height="16" alt="CodeClimate" /> CodeClimate](https://codeclimate.com/) - Code Review for Ruby, JavaScript, PHP - free for open source
 
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F19589930%3Fs%3D400%26v%3D4&f=1&nofb=1" height="16" alt="LGTM" /> LGTM](https://lgtm.com/) - Continuous security analysis and automated code review - free for open source
+
 [<img src="https://avatars0.githubusercontent.com/u/6774260?s=200&v=4" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
 
 [<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Code quality inspector for Python
@@ -170,7 +174,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/WebStorm.png" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 ### Project Management
-
+[<img src="https://www.acunote.com/favicon.ico" alt="Acunote" height="16" /> Acunote](https://www.acunote.com/open-source) - Agile project management tool and scrum software - request needed
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - Project management and issue tracking - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
 [<img src="https://huboard.com/favicon.ico" alt="HuBoard" height="16" /> HuBoard](https://huboard.com/) - Project management for GitHub issues - free for public projects
