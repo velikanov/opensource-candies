@@ -2,7 +2,7 @@
 
 ### The Free-for-Open-Source Services List
 
-Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
+Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-402519a37fed7880aea64ce37c210cd32c33be9b468fb2668ffcd6faec51260d.ico" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 ---
 
