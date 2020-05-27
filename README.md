@@ -193,6 +193,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://www.discourse.org/a/img/favicon.png" alt="discourse.org" height="16" /> Discourse.org](https://blog.discourse.org/2016/03/free-discourse-forum-hosting-for-community-friendly-github-projects/) - Civilized discussion forum for your team/customers/fans/patrons - request needed
 
+[<img src="https://convas.io/static/favicon-16x16.png" alt="discourse.org" height="16" /> Convas.io](https://convas.io/open-source) - Feedback page for your projects where your users can share, discuss and upvote feedback - request needed
+
 ### Chat
 
 [<img src="https://raw.githubusercontent.com/zulip/zulip/master/static/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulipchat.com/new/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
