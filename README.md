@@ -42,7 +42,7 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.herokucdn.com/favicon.ico" alt="Heroku" height="16" /> Heroku](https://www.heroku.com/pricing) - free tier for experimenting, sleeps after 30 minutes of inactivity
 
-[<img src="https://assets.zeit.co/image/upload/front/assets/design/now-black.svg" alt="ZEIT Now" height="16" /> ZEIT Now](https://zeit.co/pricing) - free OSS tier for up to 3 instances in v1, rebranded as "Free" tier in v2
+[<img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" alt="Vercel" height="16" /> Vercel](https://vercel.com/pricing) - free tier includes all-in-one Static and JAMstack deployment, Serverless Functions, and Global CDN (formerly ZEIT Now)
 
 ### Documentation
 
