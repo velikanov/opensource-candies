@@ -82,13 +82,11 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://scrutinizer-ci.com/favicon.ico" alt="Scrutinizer" height="16" /> Scrutinizer](https://scrutinizer-ci.com/) - CI for GitHub and BitBucket - free for open source
 
-[<img src="https://plus.google.com/_/favicon?domain=https://semaphoreapp.com" alt="Semaphore" height="16" /> Semaphore](https://semaphoreapp.com/) - CI for GitHub and BitBucket - free for open source
+[<img src="https://plus.google.com/_/favicon?domain=https://semaphoreci.com" alt="Semaphore" height="16" /> Semaphore](https://semaphoreci.com/) - CI for GitHub and BitBucket - free for open source
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Teamcity_Logo.png" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/buy/opensource/?product=teamcity) - free for open source - **strict rules** - request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://travis-ci.org/" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
-
-[<img src="http://zutubi.com/static/images/favicon.png" alt="Zutubi Pulse" height="16" /> Zutubi Pulse](http://zutubi.com/sales/opensource/) - 1 server, 5 agents, unlimited users - request needed
 
 [<img src="https://knapsackpro.com/favicon.ico" alt="knapsackpro.com" height="16" /> Knapsackpro](knapsackpro.com) - Speed up your tests run 1 hour test suite in 2 minutes with optimal parallelisation on your CI - request needed
 
@@ -177,6 +175,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Project Management
 [<img src="https://www.acunote.com/favicon.ico" alt="Acunote" height="16" /> Acunote](https://www.acunote.com/open-source) - Agile project management tool and scrum software - request needed
+
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - Project management and issue tracking - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
 [<img src="https://huboard.com/favicon.ico" alt="HuBoard" height="16" /> HuBoard](https://huboard.com/) - Project management for GitHub issues - free for public projects
@@ -187,9 +186,9 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/YouTrack.svg" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp) - free for open source - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/YouTrack.svg" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/community/opensource/#support) - free for open source - **strict rules** - request needed
 
-[<img src="https://plus.google.com/_/favicon?domain=https://zenhub.io" alt="zenhub.io" height="16" /> ZenHub.io](https://zenhub.io) - Team collaboration in GitHub - free for public and open source projects
+[<img src="https://plus.google.com/_/favicon?domain=https://zenhub.com" alt="zenhub.com" height="16" /> Zenhub](https://zenhub.com) - Team collaboration in GitHub - free for public and open source projects
 
 [<img src="https://www.discourse.org/a/img/favicon.png" alt="discourse.org" height="16" /> Discourse.org](https://blog.discourse.org/2016/03/free-discourse-forum-hosting-for-community-friendly-github-projects/) - Civilized discussion forum for your team/customers/fans/patrons - request needed
 
@@ -231,7 +230,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - [Pro Plan upgrade for open source projects](https://blog.cloudflare.com/cloudflare-open-source-your-upgrade-is-on-the-house/), includes CDN, SSL cert, Web Application Firewalls, image and mobile optimizations, and more.
 
-[<img src="https://plus.google.com/_/favicon?domain=https://gelato.io" alt="Gelato.io" height="16" /> Gelato.io](https://gelato.io/) - Developer Portals - email request needed
+[<img src="https://plus.google.com/_/favicon?domain=https://konghq.com" alt="Kong" height="16" /> Kong](https://konghq.com/) - Developer Portals - email request needed
 
 [<img src="https://mailtrap.io/favicon.ico" alt="Mailtrap" height="16" /> Mailtrap](https://mailtrap.io/) - Fake SMTP servers - email request needed
 
