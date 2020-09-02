@@ -26,6 +26,8 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://gitlab.com/favicon.ico" alt="GitLab" height="16" /> GitLab](https://gitlab.com/) - free for open source and private repositories
 
+[<img src="https://heptapod.net/favicon.ico" alt="Heptapod" height="16" /> Heptapod FOSS](https://foss.heptapod.net) - free of charge service for open source Mercurial repositories - upon [hosting request](https://foss.heptapod.net/heptapod/foss.heptapod.net/issues/new)
+
 ### Project Hosting
 
 [<img src="https://www.nuget.org/favicon.ico" alt="NuGet" height="16" /> NuGet](https://www.nuget.org/) - free .NET Project Hosting
