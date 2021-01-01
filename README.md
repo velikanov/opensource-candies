@@ -138,6 +138,8 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://translation.io/) - Localization for Rails apps - email request needed
 
+[<img src="https://lokalise.com/favicon.ico" alt="Lokalise" height="16" /> Lokalise](https://lokalise.com/) - Localization and Translation Software Tool - request needed
+
 ### Profiling
 
 [<img src="https://blackfire.io/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
