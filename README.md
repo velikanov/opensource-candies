@@ -132,13 +132,13 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://localizely.com/favicon.ico" alt="Localizely" height="16" /> Localizely](https://localizely.com/) - free for open source - request needed
 
+[<img src="https://lokalise.com/favicon.ico" alt="Lokalise" height="16" /> Lokalise](https://lokalise.com/) - Localization and Translation Software Tool - request needed
+
 [<img src="https://poeditor.com/public/images/favicons/favicon-32x32.png" alt="POEditor" height="16" /> POEditor](https://poeditor.com/) - free for open source - request needed
 
 [<img src="https://www.transifex.com/favicon.ico" alt="Transifex" height="16" /> Transifex](https://www.transifex.com/) - Localization Platform for Web
 
 [<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://translation.io/) - Localization for Rails apps - email request needed
-
-[<img src="https://lokalise.com/favicon.ico" alt="Lokalise" height="16" /> Lokalise](https://lokalise.com/) - Localization and Translation Software Tool - request needed
 
 ### Profiling
 
