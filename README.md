@@ -239,3 +239,7 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 ### Fonts
 
 [<img src="https://lh5.googleusercontent.com/DMnzgbpqmarNmyZ_85MkjxbZsYaHIiJRmStBlC2rCw8s-zhPAqFisfVxyJGkifjpc8t2VCXeFfb2GwvWELx-KfuA-VgzCZHT2YzMfSiCcX1AB-7jn5bnb1sh7AQj=w737" alt="fontpair.co/" height="16" /> Fontpair](https://fontpair.co/) - FontPair is a tool that helps you pair free, open source Google Fonts together - Free for all
+
+### Domain Names
+
+[<img src="https://js.org/icon/favicon-32.png" alt="js-org" height ="16" /> js.org](https://js.org/) - Free .js.org domain names for JavaScript projects, perfect for use with GitHub pages
