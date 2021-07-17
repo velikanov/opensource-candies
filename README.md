@@ -2,7 +2,7 @@
 
 ### The Free-for-Open-Source Services List
 
-Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-402519a37fed7880aea64ce37c210cd32c33be9b468fb2668ffcd6faec51260d.ico" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
+Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon.png" alt="YCombinator" height="16" /> YCombinator](https://news.ycombinator.com/item?id=8874227)
 
 ---
 
@@ -64,17 +64,15 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://plus.google.com/_/favicon?domain=https://circleci.com" alt="CircleCI" height="16" /> CircleCI](https://circleci.com/) - Continuous Integration and Delivery - 3 extra containers
 
-[<img src="https://storage.googleapis.com/codecov-cdn/4.4.0-94f19e4b/media/images/favicon.png" alt="Codecov" height="16" /> Codecov](https://codecov.io/) - Continuous Code Coverage
+[<img src="https://about.codecov.io/wp-content/themes/codecov/assets/brand/icons/favicons/apple-icon-76x76.png" alt="Codecov" height="16" /> Codecov](https://codecov.io/) - Continuous Code Coverage
 
-[<img src="https://codeship.com/favicon.ico" alt="Codeship" height="16" /> Codeship](https://codeship.com/) - Continuous Integration and Delivery for several languages, also supports Docker
+[<img src="https://d1tp471dfyubka.cloudfront.net/assets/favicon-32x32.png" alt="Codeship" height="16" /> Codeship](https://codeship.com/) - Continuous Integration and Delivery for several languages, also supports Docker
 
 [<img src="https://coveralls.io/favicon.ico" alt="Coveralls" height="16" /> Coveralls](https://coveralls.io/) - Code Coverage History
 
-[<img src="https://www.deployhq.com/assets/favicon-8649b743158f8fe24e8ebf7660fab47cf5f7ea610bd5f8f679477eb77f88e3e4.png" alt="Deploy" height="16" /> Deploy](https://www.deployhq.com/) - Continuous Deployment - email request needed
+[<img src="https://www.deployhq.com/assets/favicon-3e87aae2e54b9bff264cfa10be8be69e47bed5227d7cf76138e23a744b7ddf6a.png" alt="Deploy" height="16" /> Deploy](https://www.deployhq.com/) - Continuous Deployment - email request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://deploybot.com/" alt="DeployBot" height="16" /> DeployBot](https://deploybot.com/) - continuous deployment for GitHub, BitBucket or your own Git/SVN repository - free for one repository
-
-[<img src="https://deployplace.com/images/favicon/favicon.ico" alt="DeployPlace" height="16" /> DeployPlace](https://deployplace.com/) - Deploy your applications from git or CI in minutes. Complex deployments become simple - free for a lifetime 3 projects 1 user 1 deployment template for reuse unlimited deployment
 
 [<img src="https://gitlab.com/favicon.ico" alt="Gitlab-CI" height="16" /> Gitlab-CI](https://about.gitlab.com/gitlab-ci/) - on-premises CI for GitLab - free and open source
 
@@ -84,7 +82,7 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://plus.google.com/_/favicon?domain=https://semaphoreci.com" alt="Semaphore" height="16" /> Semaphore](https://semaphoreci.com/) - CI for GitHub and BitBucket - free for open source
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Teamcity_Logo.png" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/buy/opensource/?product=teamcity) - free for open source - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/800px-TeamCity_Icon.svg.png" alt="Team City" height="16" /> Team City](https://www.jetbrains.com/buy/opensource/?product=teamcity) - free for open source - **strict rules** - request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://travis-ci.org/" height="16" alt="Travis CI" /> Travis CI](https://travis-ci.org/) - CI for GitHub - free for open source
 
@@ -118,8 +116,6 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://avatars0.githubusercontent.com/u/6774260?s=200&v=4" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
 
-[<img src="https://landscape-io.s3.amazonaws.com/img/favicon.ico" alt="Landscape" height="16" /> Landscape](https://landscape.io/) - Code quality inspector for Python
-
 [<img src="https://res.cloudinary.com/snyk/image/upload/v1468845142/favicon/favicon.ico" alt="Snyk" height="16" /> Snyk](https://snyk.io/) - Continuously find & fix vulnerabilities in your dependencies, supports multiple languages - free for open source and low volume private testing
 
 [<img src="https://sonarcloud.io/favicon.ico" alt="SonarCloud" height="16" /> SonarCloud](https://sonarcloud.io) - Code coverage, code smell, and bug/vulnerability detection and tracking
@@ -134,15 +130,13 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://poeditor.com/public/images/favicons/favicon-32x32.png" alt="POEditor" height="16" /> POEditor](https://poeditor.com/) - free for open source - request needed
 
-[<img src="https://www.transifex.com/favicon.ico" alt="Transifex" height="16" /> Transifex](https://www.transifex.com/) - Localization Platform for Web
+[<img src="https://cdn-txweb.transifex.com/wp-content/uploads/2016/05/cropped-Untitled-4-01-1-192x192.png" alt="Transifex" height="16" /> Transifex](https://www.transifex.com/) - Localization Platform for Web
 
 [<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://translation.io/) - Localization for Rails apps - email request needed
 
 ### Profiling
 
 [<img src="https://blackfire.io/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
-
-[<img src="https://insight.sensiolabs.com/favicon.ico" alt="SensioLabsInsight" height="16" /> SensioLabsInsight](https://insight.sensiolabs.com/pricing) - Code Quality Assurance Tool by creators of Symfony - free for open source
 
 [<img src="https://www.yourkit.com/favicon.ico" alt="YourKit" height="16" /> YourKit](https://www.yourkit.com/) - Java Profiler
 
@@ -152,41 +146,43 @@ Formerly started at [<img src="https://www.ycombinator.com/assets/ycdc/favicon-4
 
 [<img src="https://mailchimp.com/favicon.ico" alt="MailChimp" height="16" /> MailChimp](https://mailchimp.com/) - free for 12,000 emails to 2,000 subscribers
 
+[<img src="https://www.google.com/s2/favicons?domain=emailoctopus.com" alt="EmailOctopus" height="16" /> EmailOctopus](https://emailoctopus.com/pricing) - free for 10,000 emails to 2,500 subscribers a month
+
 [<img src="https://sendgrid.com/favicon.ico" alt="SendGrid" height="16" /> SendGrid](https://sendgrid.com/pricing/) - free 100 emails / day
+
+[<img src="https://www.sendinblue.com/wp-content/themes/sendinblue2019/assets/favicon/favicon-32x32.png" alt="Sendinblue" height="16" /> SendinBlue](https://www.sendinblue.com/pricing/) - free 300 emails / day
 
 ### IDE
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/AppCode_Logo.png" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://i.postimg.cc/s2MjqMTP/icon-App-Code.png" alt="AppCode" height="16" /> AppCode](https://www.jetbrains.com/buy/opensource/?product=objc) - Objective C IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
+[<img src="https://i.postimg.cc/m2jS2p7J/icon-intellij-idea.png" alt="IntelliJ Idea" height="16" /> IntelliJ Idea](https://www.jetbrains.com/buy/opensource/?product=idea) - Java IDE - free for non-Apache developers, Apache developers, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Phpstorm.png" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://i.postimg.cc/PqV4rCGn/icon-phpstorm.png" alt="PhpStorm" height="16" /> PhpStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) - PHP IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://i.postimg.cc/MGD3kZdM/icon-pycharm.png" alt="PyCharm" height="16" /> PyCharm](https://www.jetbrains.com/buy/opensource/?product=pycharm) - Python IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/RubyMine.png" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://i.postimg.cc/JnpFX7XV/icon-rubymine.png" alt="RubyMine" height="16" /> RubyMine](https://www.jetbrains.com/buy/opensource/?product=ruby) - Ruby IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
-[<img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/02/BrandVisualStudioIDE2017RTW_64x.png" alt="Visual Studio Community" height="16" /> Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - free, fully-featured IDE for students, open-source and individual developers
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Community" height="16" /> Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - free, fully-featured IDE for students, open-source and individual developers
 
 [<img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" alt="VSCodium" height="16" /> VS Codium](https://github.com/VSCodium/vscodium/) -
 binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/WebStorm.png" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/800px-WebStorm_Icon.svg.png" alt="WebStorm" height="16" /> WebStorm](https://www.jetbrains.com/buy/opensource/?product=webstorm) - JavaScript, CSS, HTML IDE - free for open source, Outercurve developers - **strict rules** - request needed
 
 ### Project Management
 [<img src="https://www.acunote.com/favicon.ico" alt="Acunote" height="16" /> Acunote](https://www.acunote.com/open-source) - Agile project management tool and scrum software - request needed
 
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - Project management and issue tracking - free for open source - [request needed](https://www.atlassian.com/software/views/open-source-license-request)
 
-[<img src="https://huboard.com/favicon.ico" alt="HuBoard" height="16" /> HuBoard](https://huboard.com/) - Project management for GitHub issues - free for public projects
-
 [<img src="https://tree.taiga.io/images/favicon.png" alt="Taiga.io" height="16" /> Taiga.io](https://taiga.io) - Agile project management platform - free for public projects
 
-[<img src="https://website-assets.teamwork.com/assets/images/favicons/32.png" alt="Teamwork" height="16" /> Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
+[<img src="https://www.teamwork.com/favicon.ico" alt="Teamwork" height="16" /> Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/YouTrack.svg" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/community/opensource/#support) - free for open source - **strict rules** - request needed
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/800px-YouTrack_Icon.svg.png" alt="YouTrack" height="16" /> YouTrack](https://www.jetbrains.com/community/opensource/#support) - free for open source - **strict rules** - request needed
 
 [<img src="https://plus.google.com/_/favicon?domain=https://zenhub.com" alt="zenhub.com" height="16" /> Zenhub](https://zenhub.com) - Team collaboration in GitHub - free for public and open source projects
 
@@ -196,33 +192,35 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Chat
 
-[<img src="https://raw.githubusercontent.com/zulip/zulip/master/static/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulipchat.com/new/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
+[<img src="https://prod-chatwoot-assets.s3.amazonaws.com/variants/69qhlqkdyrcvwoo2fhexoiwbuqlw/cdd62c3c9a6c36a841a33253d25772e57ebf25b24b68dccdb5f7b9bc291c88eb?response-content-disposition=inline%3B%20filename%3D%22logo%20copy.png%22%3B%20filename%2A%3DUTF-8%27%27logo%2520copy.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX7PDOLKIEKWPSDFO%2F20210717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210717T224013Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=b0251b9df54a78ae1c698620e620a9415b8736a34784d4a648b5638a59856869" alt="Chatwoot" height="16" /> Chatwoot](https://www.chatwoot.com/pricing/) - Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc - email request needed
+
+[<img src="https://zulip.com/static/images/favicon.svg?v=4" alt="Zulip" height="16" /> Zulip](https://zulip.com/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
 
 ### SSL Certificates
 
 [<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - free Shared SSL cert for everyone, unmetered DDoS mitigation and Web Application Firewall
 
-[<img src="https://plus.google.com/_/favicon?domain=https://godaddy.com/" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
+[<img src="https://img6.wsimg.com/ux/favicon/apple-icon-114x114.png" alt="GoDaddy" height="16" /> GoDaddy](https://godaddy.com/ssl/ssl-open-source.aspx) - free for one year for open source projects
 
 [<img src="https://letsencrypt.org/favicon.ico" alt="Let’s Encrypt" height="16" /> Let’s Encrypt](https://letsencrypt.org) - free, automated, and open certificate authority
 
 ### Digital Asset Management
 
-[<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](https://razuna.org/) - Worlds most popular open source Digital Asset Management. **30 days free trial**
+[<img src="https://razuna.com/favicon.ico" alt="Razuna" height="16" /> Razuna](https://razuna.org/) - World's most popular open source Digital Asset Management. **30 days free trial**
 
 ### Design & Icons
 
-[<img src="https://about.canva.com/wp-content/themes/canva/img/icons/favicon.ico" alt="Canva" height="16" /> Canva](https://about.canva.com/pricing/) - free for all plan
+[<img src="https://static.canva.com/static/images/favicon.ico" alt="Canva" height="16" /> Canva](https://canva.com/pricing) - free for all plan
 
-[<img src="https://mixkit.co/static/favicons/favicon-32x32.png" alt="Mixkit" height="16" /> Mixkit](https://mixkit.co/) - free video footage & animation - attribution not required
+[<img src="https://mixkit.co/build/favicons/apple-icon-180x180-bd3d5e368063b793b955fa228a1d9311b54a29ac871f53c2e0c69e81d5fa0d48.png" alt="Mixkit" height="16" /> Mixkit](https://mixkit.co/) - free video footage & animation - attribution not required
 
-[<img src="https://openclipart.org/favicon.ico" alt="Openclipart" height="16" /> Openclipart](https://openclipart.org/) - Free clipart for all
+[<img src="https://openclipart.org/assets/images/favicons/android-icon-192x192.png" alt="Openclipart" height="16" /> Openclipart](https://openclipart.org/) - Free clipart for all
 
 [<img src="https://unsplash.com/favicon-16x16.png" alt="Unsplash" height="16" /> Unsplash](https://unsplash.com/) - Photos for free for all purpose - no link back required (although appreciated)
 
 ### Misc. Application Utilities
 
-[<img src="https://www.algolia.com/icons/icon-48x48.png?v=6aa74bf932b8dc1849d3368dfa888e0d" alt="Algolia" height="16" /> Algolia](https://www.algolia.com/) - Hosted Search engine as a service - free for community and open source use, email request needed
+[<img src="https://www.algolia.com/algoliaweb-static-favicons/apple-touch-icon.png" alt="Algolia" height="16" /> Algolia](https://www.algolia.com/) - Hosted Search engine as a service - free for community and open source use, email request needed
 
 [<img src="https://apiary.io/favicon.ico" alt="Apiary" height="16" /> Apiary](https://apiary.io/) - Design, prototype, document and test APIs - email request needed
 
