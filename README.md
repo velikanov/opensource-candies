@@ -126,6 +126,8 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://translations.launchpad.net/@@/launchpad-logo" alt="Launchpad" height="16" /> Launchpad](https://translations.launchpad.net/) - Localization Platform for open source projects
 
+[<img src="https://localeum.com/assets/favicons/favicon-32x32.png" alt="Localeum" height="16" /> Localeum](https://localeum.com/) - free for startups and solo developers
+
 [<img src="https://localizely.com/favicon.ico" alt="Localizely" height="16" /> Localizely](https://localizely.com/) - free for open source - request needed
 
 [<img src="https://poeditor.com/public/images/favicons/favicon-32x32.png" alt="POEditor" height="16" /> POEditor](https://poeditor.com/) - free for open source - request needed
