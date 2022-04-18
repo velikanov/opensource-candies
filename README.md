@@ -36,7 +36,7 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](https://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
-[<img src="https://digitalocean.com/favicon.ico" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
+[<img src="https://docs.digitalocean.com/favicon.png" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
 
 ### Public Cloud
 
