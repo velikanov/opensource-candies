@@ -249,4 +249,4 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Domain Names
 
-[<img src="https://js.org/icon/favicon-32.png" alt="js-org" height ="16" /> js.org](https://js.org/) - Free .js.org domain names for JavaScript projects, perfect for use with GitHub pages
+[<img src="https://js.org/favicon.png" alt="js-org" height ="16" /> js.org](https://js.org/) - Free .js.org domain names for JavaScript projects, perfect for use with GitHub pages
