@@ -20,7 +20,7 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
 
-[<img src="https://codeberg.org/img/favicon.png" alt="codeberg" height="16" /> codeberg](https://codeberg.org/) - free as in freedom for open source repositories - backed by a nonprofit association
+[<img src="https://codeberg.org/assets/img/logo-small.svg" alt="codeberg" height="16" /> codeberg](https://codeberg.org/) - free as in freedom for open source repositories - backed by a nonprofit association
 
 [<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, free for private repositories
 
