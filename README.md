@@ -187,6 +187,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://tree.taiga.io/images/favicon.png" alt="Taiga.io" height="16" /> Taiga.io](https://taiga.io) - Agile project management platform - free for public projects
 
+[<img src="https://ducalis.io/favicon.ico" alt="Ducalis" height="16" /> Ducalis](https://ducalis.io/) - Prioritization, Roadmaps, and User Feedback Tracking Free for Open Source and Non-Profits - request needed
+
 [<img src="https://www.teamwork.com/favicon.ico" alt="Teamwork" height="16" /> Teamwork](https://www.teamwork.com/) - free for 2 Projects, 10MB Storage
 
 [<img src="https://trello.com/favicon.ico" alt="Trello" height="16" /> Trello](https://trello.com/) - simple bugtracker - free for all
