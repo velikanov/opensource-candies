@@ -143,6 +143,9 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://translation.io/favicon-32x32.png" alt="Translation.io" height="16" /> Translation.io](https://translation.io/) - Localization for Rails apps - email request needed
 
+
+[<img src="https://weblate.org/static/weblate-180.png" alt="weblate.org" height="16" /> Weblate.org](https://weblate.org/) - email request needed (weblate itself is open source)
+
 ### Profiling
 
 [<img src="https://blackfire.io/favicon.ico" alt="Blackfire" height="16" /> Blackfire](https://blackfire.io/) - PHP Profiler by creators of Symfony
