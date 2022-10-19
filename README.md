@@ -44,6 +44,8 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://www.herokucdn.com/favicon.ico" alt="Heroku" height="16" /> Heroku](https://www.heroku.com/pricing) - free tier for experimenting, sleeps after 30 minutes of inactivity
 
+[<img src="[%favicon_url%](https://www.netlify.com/v3/static/favicon/favicon-16x16.png)" alt="Netlify" height="16" /> Netlify]([%service_url%](https://www.netlify.com/legal/open-source-policy/)) - the same features and limits as our Pro plan, with the addition of free unlimited team members
+
 [<img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" alt="Vercel" height="16" /> Vercel](https://vercel.com/pricing) - free tier includes all-in-one Static and JAMstack deployment, Serverless Functions, and Global CDN (formerly ZEIT Now)
 
 ### Documentation
