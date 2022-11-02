@@ -205,6 +205,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://zulip.com/static/images/favicon.svg?v=4" alt="Zulip" height="16" /> Zulip](https://zulip.com/) - Group chat webapp and mobile app - [Free hosted instance for open source projects & communities](https://zulipchat.com/for/open-source/)
 
+[<img src="https://a.slack-edge.com/5f35cf0/img/icons/favicon-32-ua.png" alt="Slack" height="16" /> Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount) - Messaging platform including persistent chat rooms (channels) organized by topic, private groups, and direct messaging - [request needed](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount), free for 249 members and less, 85% discount after
+
 ### SSL Certificates
 
 [<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" height ="16" /> Cloudflare](https://www.cloudflare.com/) - free Shared SSL cert for everyone, unmetered DDoS mitigation and Web Application Firewall
