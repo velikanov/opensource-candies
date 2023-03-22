@@ -239,6 +239,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://plus.google.com/_/favicon?domain=https://konghq.com" alt="Kong" height="16" /> Kong](https://konghq.com/) - Developer Portals - email request needed
 
+[<img src="https://plus.google.com/_/favicon?domain=https://magny.io" alt="Magny" height="16" /> Magny](https://magny.io/) - SaaS service that helps implement command palettes (e.g in-app search) - email request needed
+
 [<img src="https://mailtrap.io/favicon.ico" alt="Mailtrap" height="16" /> Mailtrap](https://mailtrap.io/) - Fake SMTP servers - email request needed
 
 [<img src="https://sdkman.io/assets//img/favicon.ico" alt="sdkman.io" height="16" /> SDKMAN!](https://sdkman.io) - Software Development Kit Manager for JVM developers
