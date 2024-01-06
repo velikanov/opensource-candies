@@ -121,6 +121,8 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://avatars0.githubusercontent.com/u/6774260?s=200&v=4" height="16" alt="QuantifiedCode" /> QuantifiedCode](https://www.quantifiedcode.com/) - Automated Code Review for Python - free for open source
 
+[<img src="https://app.semanticdiff.com/static/icon_32.png" alt="SemanticDiff" height="16" /> SemanticDiff](https://app.semanticdiff.com) - Programming language aware diff for GitHub pull requests and commits, supports multiple languages - free for open source
+
 [<img src="https://res.cloudinary.com/snyk/image/upload/v1468845142/favicon/favicon.ico" alt="Snyk" height="16" /> Snyk](https://snyk.io/) - Continuously find & fix vulnerabilities in your dependencies, supports multiple languages - free for open source and low volume private testing
 
 [<img src="https://sonarcloud.io/favicon.ico" alt="SonarCloud" height="16" /> SonarCloud](https://sonarcloud.io) - Code coverage, code smell, and bug/vulnerability detection and tracking
