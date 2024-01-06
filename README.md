@@ -20,7 +20,7 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
 
-[<img src="https://codeberg.org/img/favicon.png" alt="codeberg" height="16" /> codeberg](https://codeberg.org/) - free as in freedom for open source repositories - backed by a nonprofit association
+[<img src="https://codeberg.org/assets/img/logo-small.svg" alt="codeberg" height="16" /> codeberg](https://codeberg.org/) - free as in freedom for open source repositories - backed by a nonprofit association
 
 [<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, free for private repositories
 
@@ -36,7 +36,7 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://sourceforge.net/favicon.ico" alt="SourceForge" height="16" /> SourceForge](https://sourceforge.net/) - Git/Mercurial/SVN Project Hosting
 
-[<img src="https://digitalocean.com/favicon.ico" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
+[<img src="https://docs.digitalocean.com/favicon.png" alt="DigitalOcean" height="16" /> DigitalOcean](https://developers.digitalocean.com/opensource/) - free credits for eligible open source projects - request needed
 
 ### Public Cloud
 
@@ -260,4 +260,4 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 ### Domain Names
 
-[<img src="https://js.org/icon/favicon-32.png" alt="js-org" height ="16" /> js.org](https://js.org/) - Free .js.org domain names for JavaScript projects, perfect for use with GitHub pages
+[<img src="https://js.org/favicon.png" alt="js-org" height ="16" /> js.org](https://js.org/) - Free .js.org domain names for JavaScript projects, perfect for use with GitHub pages
