@@ -254,6 +254,8 @@ binary releases of Visual Studio Code without MS branding/telemetry/licensing
 
 [<img src="https://sdkman.io/assets//img/favicon.ico" alt="sdkman.io" height="16" /> SDKMAN!](https://sdkman.io) - Software Development Kit Manager for JVM developers
 
+[<img src="https://strapi.io/assets/favicon-16x16.png" alt="Strapi" height="16" /> Strapi](https://www.strapi.io/cloud-discounts) - Headless CMS - "significant" Strapi Cloud discounts to Open Source projects and Non-Profits, application form request needed.
+
 ### Fonts
 
 [<img src="https://lh5.googleusercontent.com/DMnzgbpqmarNmyZ_85MkjxbZsYaHIiJRmStBlC2rCw8s-zhPAqFisfVxyJGkifjpc8t2VCXeFfb2GwvWELx-KfuA-VgzCZHT2YzMfSiCcX1AB-7jn5bnb1sh7AQj=w737" alt="fontpair.co/" height="16" /> Fontpair](https://fontpair.co/) - FontPair is a tool that helps you pair free, open source Google Fonts together - Free for all
